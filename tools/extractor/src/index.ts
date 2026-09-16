@@ -59,7 +59,7 @@ class ErrorLog {
     const message = error instanceof Error ? error.message : String(error);
     this.errors.push({ stage, id: String(id), message });
     await fs.appendFile(this.filePath, `[${new Date().toISOString()}] ${stage} ${id}: ${message}\n`);
-    console.error(`  ✖ ${stage} ${id}: ${message}`);
+    console.error(`${process.stdout.isTTY ? '\n' : ''}  ✖ ${stage} ${id}: ${message}`);
   }
 }
 
@@ -89,6 +89,34 @@ function formatDuration(ms: number): string {
   return `${minutes}m ${seconds}s`;
 }
 
+/**
+ * Single self-overwriting progress line per stage (via `\r`), so a slow sequential stage (e.g.
+ * hundreds of comandas at 400ms each) doesn't look hung. Falls back to occasional plain lines
+ * when stdout isn't a TTY (e.g. redirected to a file), so the log doesn't fill with `\r` bytes.
+ */
+class Progress {
+  private done = 0;
+
+  constructor(
+    private readonly label: string,
+    private readonly total: number,
+  ) {}
+
+  tick(): void {
+    this.done += 1;
+    if (process.stdout.isTTY) {
+      process.stdout.write(`\r${this.label}: ${this.done}/${this.total}...`);
+    } else if (this.done === this.total || this.done % 50 === 0) {
+      console.log(`${this.label}: ${this.done}/${this.total}...`);
+    }
+  }
+
+  finish(summary: string): void {
+    if (process.stdout.isTTY) process.stdout.write('\r');
+    console.log(summary);
+  }
+}
+
 async function main(): Promise<void> {
   const startedAt = new Date();
   const { from, to, force } = parseArgs(process.argv.slice(2));
@@ -106,6 +134,7 @@ async function main(): Promise<void> {
   const dates = eachDate(from, to);
   const allBookings: Booking[] = [];
   const comandaIds = new Set<number>();
+  const agendaProgress = new Progress('Agenda', dates.length);
 
   await Promise.all(
     dates.map((isoDate) =>
@@ -125,15 +154,20 @@ async function main(): Promise<void> {
           }
         } catch (error) {
           await errorLog.record('agenda', isoDate, error);
+        } finally {
+          agendaProgress.tick();
         }
       }),
     ),
   );
 
-  console.log(`Agenda: ${allBookings.length} bookings across ${dates.length} days, ${comandaIds.size} unique comandas.`);
+  agendaProgress.finish(
+    `Agenda: ${allBookings.length} bookings across ${dates.length} days, ${comandaIds.size} unique comandas.`,
+  );
 
   const comandaLimit = pLimit(COMANDA_CONCURRENCY);
   const comandas: ComandaDetail[] = [];
+  const comandaProgress = new Progress('Comandas', comandaIds.size);
 
   await Promise.all(
     Array.from(comandaIds).map((comandaId) =>
@@ -150,16 +184,19 @@ async function main(): Promise<void> {
           comandas.push(detail);
         } catch (error) {
           await errorLog.record('comanda', comandaId, error);
+        } finally {
+          comandaProgress.tick();
         }
       }),
     ),
   );
 
-  console.log(`Comandas: ${comandas.length} fetched.`);
+  comandaProgress.finish(`Comandas: ${comandas.length} fetched.`);
 
   const clienteIds = collectClienteIds(allBookings, comandas);
   const clienteLimit = pLimit(CLIENTE_CONCURRENCY);
   const clientes: SalonClient[] = [];
+  const clienteProgress = new Progress('Clientes', clienteIds.length);
 
   await Promise.all(
     clienteIds.map((clienteId) =>
@@ -176,12 +213,14 @@ async function main(): Promise<void> {
           clientes.push(detail);
         } catch (error) {
           await errorLog.record('cliente', clienteId, error);
+        } finally {
+          clienteProgress.tick();
         }
       }),
     ),
   );
 
-  console.log(`Clientes: ${clientes.length} fetched.`);
+  clienteProgress.finish(`Clientes: ${clientes.length} fetched.`);
 
   await writeJson(path.join(dataRoot, 'normalized', 'agenda.json'), allBookings);
   await writeJson(path.join(dataRoot, 'normalized', 'comandas.json'), comandas);
