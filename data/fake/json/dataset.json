@@ -2,203 +2,203 @@
   "clientes": [
     {
       "id": 900100,
-      "nome": "HELENA SANTOS",
-      "email": "helena.santos@hotmail.com",
-      "telefone": "(93) 74773-0758",
-      "celular": "(91) 21341-2417",
-      "datacad": "2025-04-19 09:00:00"
+      "nome": "ELISA COSTA",
+      "email": "elisa_costa@hotmail.com",
+      "telefone": "(74) 77307-5869",
+      "celular": "(21) 34124-1721",
+      "datacad": "2025-03-20 09:00:00"
     },
     {
       "id": 900101,
-      "nome": "CLARA BRAGA",
-      "email": "clara_braga17@yahoo.com",
-      "telefone": "(32) 4055-8753",
-      "celular": "(10) 20814-5045",
-      "datacad": "2024-10-21 09:00:00"
+      "nome": "NATÁLIA BRAGA",
+      "email": "natalia.braga22@gmail.com",
+      "telefone": "(55) 87535-1020",
+      "celular": "(14) 5045-7159",
+      "datacad": "2024-08-01 09:00:00"
     },
     {
       "id": 900102,
-      "nome": "CAUÃ XAVIER",
-      "email": "caua.xavier@yahoo.com",
-      "telefone": "(79) 02135-7191",
-      "celular": "(25) 62764-5626",
-      "datacad": "2024-11-26 09:00:00"
+      "nome": "MARLI PEREIRA",
+      "email": "marli.pereira26@yahoo.com",
+      "telefone": "(57) 19182-5627",
+      "celular": "(45) 6266-0615",
+      "datacad": "2024-08-15 09:00:00"
     },
     {
       "id": 900103,
-      "nome": "ANA LUIZA BRAGA",
-      "email": "analuiza_braga@hotmail.com",
-      "telefone": "(83) 19571-4212",
-      "celular": "(85) 09634-0906",
-      "datacad": "2024-11-12 09:00:00"
+      "nome": "MARLI MARTINS",
+      "email": "marli_martins@bol.com.br",
+      "telefone": "(42) 12685-0963",
+      "celular": "(09) 06619-6893",
+      "datacad": "2024-08-16 09:00:00"
     },
     {
       "id": 900104,
-      "nome": "DANILO NOGUEIRA",
-      "email": "danilo_nogueira@yahoo.com",
-      "telefone": "(83) 7723-5930",
-      "celular": "(36) 58911-9962",
-      "datacad": "2025-06-08 09:00:00"
+      "nome": "NATÁLIA REIS",
+      "email": "natalia.reis@gmail.com",
+      "telefone": "(08) 36589-1199",
+      "celular": "(21) 4117-0137",
+      "datacad": "2025-01-14 09:00:00"
     },
     {
       "id": 900105,
-      "nome": "JÚLIO BATISTA",
-      "email": "julio.batista13@live.com",
-      "telefone": "(50) 66223-9014",
-      "celular": "(49) 3569-0702",
-      "datacad": "2024-12-26 09:00:00"
+      "nome": "MARIA CECÍLIA CARVALHO",
+      "email": "mariacecilia_carvalho4@gmail.com",
+      "telefone": "(04) 93569-0702",
+      "celular": "(86) 8619-8262",
+      "datacad": "2025-04-12 09:00:00"
     },
     {
       "id": 900106,
-      "nome": "RICARDO SARAIVA",
-      "email": "ricardo.saraiva@live.com",
-      "telefone": "(62) 2074-0326",
-      "celular": "(57) 8996-2235",
-      "datacad": "2024-11-23 09:00:00"
+      "nome": "MORGANA MACEDO",
+      "email": "morgana_macedo@gmail.com",
+      "telefone": "(89) 9622-3560",
+      "celular": "(89) 52683-4412",
+      "datacad": "2024-09-22 09:00:00"
     },
     {
       "id": 900107,
-      "nome": "ALINE SILVA",
-      "email": "aline_silva@yahoo.com",
-      "telefone": "(34) 41287-8788",
-      "celular": "(37) 8138-7913",
-      "datacad": "2025-05-22 09:00:00"
+      "nome": "TERTULIANO SANTOS",
+      "email": "tertuliano.santos@bol.com.br",
+      "telefone": "(38) 79131-7803",
+      "celular": "(30) 38270-4994",
+      "datacad": "2025-04-28 09:00:00"
     },
     {
       "id": 900108,
-      "nome": "MÉRCIA BARROS",
-      "email": "mercia.barros32@gmail.com",
-      "telefone": "(82) 7049-9420",
-      "celular": "(48) 8700-2761",
-      "datacad": "2024-12-28 09:00:00"
+      "nome": "CECÍLIA SILVA",
+      "email": "cecilia.silva1@live.com",
+      "telefone": "(61) 5221-0719",
+      "celular": "(94) 22812-3410",
+      "datacad": "2024-12-21 09:00:00"
     },
     {
       "id": 900109,
-      "nome": "EDUARDO BRAGA",
-      "email": "eduardo_braga@bol.com.br",
-      "telefone": "(94) 2281-2341",
-      "celular": "(52) 9788-7026",
-      "datacad": "2025-06-03 09:00:00"
+      "nome": "VALENTINA SILVA",
+      "email": "valentina.silva@live.com",
+      "telefone": "(72) 37234-3019",
+      "celular": "(97) 9027-7041",
+      "datacad": "2024-12-20 09:00:00"
     },
     {
       "id": 900110,
-      "nome": "PABLO FRANCO",
-      "email": "pablo.franco32@live.com",
-      "telefone": "(01) 9897-9027",
-      "celular": "(04) 15465-8810",
-      "datacad": "2025-01-27 09:00:00"
+      "nome": "MARIA CECÍLIA SILVA",
+      "email": "mariacecilia.silva47@bol.com.br",
+      "telefone": "(87) 50792-7890",
+      "celular": "(50) 91947-4369",
+      "datacad": "2024-09-15 09:00:00"
     },
     {
       "id": 900111,
-      "nome": "ELÍSIO SILVA",
-      "email": "elisio_silva@live.com",
-      "telefone": "(27) 89045-0919",
-      "celular": "(74) 3698-4440",
-      "datacad": "2024-08-24 09:00:00"
+      "nome": "LARISSA SILVA",
+      "email": "larissa_silva47@yahoo.com",
+      "telefone": "(85) 94404-7804",
+      "celular": "(92) 40871-4628",
+      "datacad": "2025-01-02 09:00:00"
     },
     {
       "id": 900112,
-      "nome": "THÉO MELO",
-      "email": "theo.melo@bol.com.br",
-      "telefone": "(44) 04780-4092",
-      "celular": "(08) 7146-2858",
-      "datacad": "2025-02-27 09:00:00"
+      "nome": "GUILHERME BARROS",
+      "email": "guilherme_barros@bol.com.br",
+      "telefone": "(17) 41938-6701",
+      "celular": "(03) 7468-8704",
+      "datacad": "2025-04-06 09:00:00"
     },
     {
       "id": 900113,
-      "nome": "WARLEY BARROS",
-      "email": "warley_barros@bol.com.br",
-      "telefone": "(17) 4193-8670",
-      "celular": "(60) 3746-8870",
-      "datacad": "2025-01-28 09:00:00"
+      "nome": "ISAAC MACEDO",
+      "email": "isaac_macedo93@yahoo.com",
+      "telefone": "(75) 8367-2686",
+      "celular": "(38) 2914-9276",
+      "datacad": "2025-03-30 09:00:00"
     },
     {
       "id": 900114,
-      "nome": "FABRÍCIO MELO",
-      "email": "fabricio.melo@gmail.com",
-      "telefone": "(93) 87583-6726",
-      "celular": "(66) 38291-4927",
-      "datacad": "2024-11-30 09:00:00"
+      "nome": "CALEBE REIS",
+      "email": "calebe.reis56@yahoo.com",
+      "telefone": "(88) 77345-4610",
+      "celular": "(21) 5411-2610",
+      "datacad": "2025-06-28 09:00:00"
     },
     {
       "id": 900115,
-      "nome": "FELÍCIA BATISTA",
-      "email": "felicia_batista@gmail.com",
-      "telefone": "(51) 4887-7345",
-      "celular": "(61) 0821-5411",
-      "datacad": "2025-04-03 09:00:00"
+      "nome": "MARCOS MOREIRA",
+      "email": "marcos.moreira55@bol.com.br",
+      "telefone": "(15) 0915-7510",
+      "celular": "(28) 6898-7611",
+      "datacad": "2024-08-16 09:00:00"
     },
     {
       "id": 900116,
-      "nome": "MARCELO ALBUQUERQUE",
-      "email": "marcelo_albuquerque@bol.com.br",
-      "telefone": "(51) 25171-5091",
-      "celular": "(75) 10828-6898",
-      "datacad": "2024-10-16 09:00:00"
+      "nome": "ALICE XAVIER",
+      "email": "alice_xavier@bol.com.br",
+      "telefone": "(17) 89878-6809",
+      "celular": "(02) 51998-4626",
+      "datacad": "2024-08-23 09:00:00"
     },
     {
       "id": 900117,
-      "nome": "MARCELA BRAGA",
-      "email": "marcela.braga1@yahoo.com",
-      "telefone": "(91) 82511-7898",
-      "celular": "(86) 80930-2519",
-      "datacad": "2024-08-06 09:00:00"
+      "nome": "VITÓRIA BRAGA",
+      "email": "vitoria_braga92@gmail.com",
+      "telefone": "(26) 5150-8229",
+      "celular": "(12) 96845-6666",
+      "datacad": "2024-07-26 09:00:00"
     },
     {
       "id": 900118,
-      "nome": "ROBERTO OLIVEIRA",
-      "email": "roberto_oliveira90@gmail.com",
-      "telefone": "(56) 12590-5265",
-      "celular": "(50) 8229-4129",
-      "datacad": "2024-11-23 09:00:00"
+      "nome": "MARINA SARAIVA",
+      "email": "marina.saraiva87@bol.com.br",
+      "telefone": "(74) 44846-7867",
+      "celular": "(48) 50373-1107",
+      "datacad": "2024-12-21 09:00:00"
     },
     {
       "id": 900119,
-      "nome": "RICARDO NOGUEIRA",
-      "email": "ricardo_nogueira@live.com",
-      "telefone": "(47) 67802-8237",
-      "celular": "(44) 8467-8674",
-      "datacad": "2025-02-08 09:00:00"
+      "nome": "JÚLIO MELO",
+      "email": "julio.melo@live.com",
+      "telefone": "(87) 7372-2421",
+      "celular": "(74) 20934-5229",
+      "datacad": "2024-12-30 09:00:00"
     },
     {
       "id": 900120,
-      "nome": "RAFAEL BARROS",
-      "email": "rafael_barros31@gmail.com",
-      "telefone": "(07) 5958-8461",
-      "celular": "(78) 87737-2242",
-      "datacad": "2025-05-14 09:00:00"
+      "nome": "MARIA CECÍLIA MELO",
+      "email": "mariacecilia.melo65@bol.com.br",
+      "telefone": "(10) 75123-4700",
+      "celular": "(64) 5415-8401",
+      "datacad": "2025-01-25 09:00:00"
     },
     {
       "id": 900121,
-      "nome": "ANTONELLA MARTINS",
-      "email": "antonella.martins96@gmail.com",
-      "telefone": "(52) 2954-6484",
-      "celular": "(46) 0410-7512",
-      "datacad": "2025-03-23 09:00:00"
+      "nome": "ISABELLA FRANCO",
+      "email": "isabella.franco@yahoo.com",
+      "telefone": "(74) 10562-6214",
+      "celular": "(90) 5069-3815",
+      "datacad": "2025-04-01 09:00:00"
     },
     {
       "id": 900122,
-      "nome": "JOÃO MIGUEL BARROS",
-      "email": "joaomiguel_barros66@bol.com.br",
-      "telefone": "(41) 58401-4237",
-      "celular": "(39) 19517-4105",
-      "datacad": "2024-11-25 09:00:00"
+      "nome": "ELÍSIO BARROS",
+      "email": "elisio.barros49@bol.com.br",
+      "telefone": "(80) 1027-8865",
+      "celular": "(15) 41012-2984",
+      "datacad": "2025-01-24 09:00:00"
     },
     {
       "id": 900123,
-      "nome": "DENEVAL CARVALHO",
-      "email": "deneval.carvalho@bol.com.br",
-      "telefone": "(50) 6938-1527",
-      "celular": "(21) 0104-0680",
-      "datacad": "2025-06-05 09:00:00"
+      "nome": "MANUELA OLIVEIRA",
+      "email": "manuela_oliveira22@hotmail.com",
+      "telefone": "(86) 38815-6803",
+      "celular": "(02) 27975-5402",
+      "datacad": "2025-03-12 09:00:00"
     },
     {
       "id": 900124,
-      "nome": "BENÍCIO SANTOS",
-      "email": "benicio_santos@yahoo.com",
-      "telefone": "(15) 4101-2298",
-      "celular": "(42) 5806-4721",
-      "datacad": "2025-07-09 09:00:00"
+      "nome": "MARIA JÚLIA SARAIVA",
+      "email": "mariajulia.saraiva50@bol.com.br",
+      "telefone": "(03) 7670-2953",
+      "celular": "(09) 9972-5492",
+      "datacad": "2025-05-23 09:00:00"
     }
   ],
   "comandas": [
@@ -206,18 +206,32 @@
       "id": 900200,
       "numero": 1,
       "data": "2025-07-19 00:00:00",
-      "salao_cliente_id": 900116,
+      "salao_cliente_id": 900108,
       "tab_items": [
         {
           "id": 900300,
           "comanda_id": 900200,
           "tipo": "salao_servicos",
-          "item": "Hidratação",
-          "valor": 120,
+          "item": "Escova",
+          "valor": 79,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 45,
+          "comissao": 50,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-19 10:00:00"
+        },
+        {
+          "id": 900301,
+          "comanda_id": 900200,
+          "tipo": "salao_servicos",
+          "item": "Sobrancelha Design",
+          "valor": 60,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 50,
           "profissional_id": 900001,
           "status": 1,
           "datacad": "2025-07-19 10:00:00"
@@ -231,44 +245,8 @@
       "salao_cliente_id": 900115,
       "tab_items": [
         {
-          "id": 900301,
-          "comanda_id": 900201,
-          "tipo": "salao_servicos",
-          "item": "Escova",
-          "valor": 79,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-19 10:00:00"
-        },
-        {
           "id": 900302,
           "comanda_id": 900201,
-          "tipo": "salao_servicos",
-          "item": "Corte Feminino",
-          "valor": 90,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 40,
-          "profissional_id": 900001,
-          "status": 0,
-          "datacad": "2025-07-19 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900202,
-      "numero": 3,
-      "data": "2025-07-19 00:00:00",
-      "salao_cliente_id": 900118,
-      "tab_items": [
-        {
-          "id": 900303,
-          "comanda_id": 900202,
           "tipo": "salao_servicos",
           "item": "Coloração",
           "valor": 250,
@@ -279,17 +257,25 @@
           "profissional_id": 900001,
           "status": 1,
           "datacad": "2025-07-19 10:00:00"
-        },
+        }
+      ]
+    },
+    {
+      "id": 900202,
+      "numero": 3,
+      "data": "2025-07-19 00:00:00",
+      "salao_cliente_id": 900107,
+      "tab_items": [
         {
-          "id": 900304,
+          "id": 900303,
           "comanda_id": 900202,
           "tipo": "salao_servicos",
-          "item": "Maquiagem",
-          "valor": 198,
+          "item": "Escova",
+          "valor": 79,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 70,
+          "comissao": 50,
           "profissional_id": 900001,
           "status": 1,
           "datacad": "2025-07-19 10:00:00"
@@ -300,10 +286,10 @@
       "id": 900203,
       "numero": 4,
       "data": "2025-07-19 00:00:00",
-      "salao_cliente_id": 900108,
+      "salao_cliente_id": 900107,
       "tab_items": [
         {
-          "id": 900305,
+          "id": 900304,
           "comanda_id": 900203,
           "tipo": "salao_servicos",
           "item": "Maquiagem",
@@ -322,11 +308,105 @@
       "id": 900204,
       "numero": 5,
       "data": "2025-07-19 00:00:00",
-      "salao_cliente_id": 900101,
+      "salao_cliente_id": 900111,
+      "tab_items": [
+        {
+          "id": 900305,
+          "comanda_id": 900204,
+          "tipo": "salao_servicos",
+          "item": "Escova",
+          "valor": 79,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 50,
+          "profissional_id": 900001,
+          "status": 0,
+          "datacad": "2025-07-19 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900205,
+      "numero": 1,
+      "data": "2025-07-20 00:00:00",
+      "salao_cliente_id": 900109,
       "tab_items": [
         {
           "id": 900306,
-          "comanda_id": 900204,
+          "comanda_id": 900205,
+          "tipo": "salao_servicos",
+          "item": "Escova",
+          "valor": 79,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 50,
+          "profissional_id": 900001,
+          "status": 0,
+          "datacad": "2025-07-20 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900206,
+      "numero": 2,
+      "data": "2025-07-20 00:00:00",
+      "salao_cliente_id": 900110,
+      "tab_items": [
+        {
+          "id": 900307,
+          "comanda_id": 900206,
+          "tipo": "salao_servicos",
+          "item": "Escova",
+          "valor": 79,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 50,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-20 10:00:00"
+        },
+        {
+          "id": 900308,
+          "comanda_id": 900206,
+          "tipo": "salao_servicos",
+          "item": "Corte Feminino",
+          "valor": 90,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 40,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-20 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900207,
+      "numero": 3,
+      "data": "2025-07-20 00:00:00",
+      "salao_cliente_id": 900123,
+      "tab_items": [
+        {
+          "id": 900309,
+          "comanda_id": 900207,
+          "tipo": "salao_servicos",
+          "item": "Coloração",
+          "valor": 250,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 35,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-20 10:00:00"
+        },
+        {
+          "id": 900310,
+          "comanda_id": 900207,
           "tipo": "salao_servicos",
           "item": "Sobrancelha Design",
           "valor": 60,
@@ -336,19 +416,19 @@
           "comissao": 50,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-07-19 10:00:00"
+          "datacad": "2025-07-20 10:00:00"
         }
       ]
     },
     {
-      "id": 900205,
-      "numero": 6,
-      "data": "2025-07-19 00:00:00",
-      "salao_cliente_id": 900109,
+      "id": 900208,
+      "numero": 4,
+      "data": "2025-07-20 00:00:00",
+      "salao_cliente_id": 900110,
       "tab_items": [
         {
-          "id": 900307,
-          "comanda_id": 900205,
+          "id": 900311,
+          "comanda_id": 900208,
           "tipo": "salao_servicos",
           "item": "Hidratação",
           "valor": 120,
@@ -357,12 +437,20 @@
           "custo": 0,
           "comissao": 45,
           "profissional_id": 900001,
-          "status": 0,
-          "datacad": "2025-07-19 10:00:00"
-        },
+          "status": 1,
+          "datacad": "2025-07-20 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900209,
+      "numero": 5,
+      "data": "2025-07-20 00:00:00",
+      "salao_cliente_id": 900110,
+      "tab_items": [
         {
-          "id": 900308,
-          "comanda_id": 900205,
+          "id": 900312,
+          "comanda_id": 900209,
           "tipo": "salao_servicos",
           "item": "Sobrancelha Design",
           "valor": 60,
@@ -372,19 +460,91 @@
           "comissao": 50,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-07-19 10:00:00"
+          "datacad": "2025-07-20 10:00:00"
         }
       ]
     },
     {
-      "id": 900206,
+      "id": 900210,
       "numero": 1,
       "data": "2025-07-21 00:00:00",
-      "salao_cliente_id": 900101,
+      "salao_cliente_id": 900121,
       "tab_items": [
         {
-          "id": 900309,
-          "comanda_id": 900206,
+          "id": 900313,
+          "comanda_id": 900210,
+          "tipo": "salao_servicos",
+          "item": "Corte Feminino",
+          "valor": 90,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 40,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-21 10:00:00"
+        },
+        {
+          "id": 900314,
+          "comanda_id": 900210,
+          "tipo": "salao_servicos",
+          "item": "Coloração",
+          "valor": 250,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 35,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-21 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900211,
+      "numero": 2,
+      "data": "2025-07-21 00:00:00",
+      "salao_cliente_id": 900112,
+      "tab_items": [
+        {
+          "id": 900315,
+          "comanda_id": 900211,
+          "tipo": "salao_servicos",
+          "item": "Sobrancelha Design",
+          "valor": 60,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 50,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-21 10:00:00"
+        },
+        {
+          "id": 900316,
+          "comanda_id": 900211,
+          "tipo": "salao_servicos",
+          "item": "Escova",
+          "valor": 79,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 50,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-21 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900212,
+      "numero": 3,
+      "data": "2025-07-21 00:00:00",
+      "salao_cliente_id": 900100,
+      "tab_items": [
+        {
+          "id": 900317,
+          "comanda_id": 900212,
           "tipo": "salao_servicos",
           "item": "Maquiagem",
           "valor": 198,
@@ -395,222 +555,120 @@
           "profissional_id": 900001,
           "status": 1,
           "datacad": "2025-07-21 10:00:00"
-        },
-        {
-          "id": 900310,
-          "comanda_id": 900206,
-          "tipo": "salao_servicos",
-          "item": "Hidratação",
-          "valor": 120,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 45,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-21 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900207,
-      "numero": 2,
-      "data": "2025-07-21 00:00:00",
-      "salao_cliente_id": 900122,
-      "tab_items": [
-        {
-          "id": 900311,
-          "comanda_id": 900207,
-          "tipo": "salao_servicos",
-          "item": "Corte Feminino",
-          "valor": 90,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 40,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-21 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900208,
-      "numero": 3,
-      "data": "2025-07-21 00:00:00",
-      "salao_cliente_id": 900114,
-      "tab_items": [
-        {
-          "id": 900312,
-          "comanda_id": 900208,
-          "tipo": "salao_servicos",
-          "item": "Escova",
-          "valor": 79,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-21 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900209,
-      "numero": 4,
-      "data": "2025-07-21 00:00:00",
-      "salao_cliente_id": 900115,
-      "tab_items": [
-        {
-          "id": 900313,
-          "comanda_id": 900209,
-          "tipo": "salao_servicos",
-          "item": "Coloração",
-          "valor": 250,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 35,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-21 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900210,
-      "numero": 5,
-      "data": "2025-07-21 00:00:00",
-      "salao_cliente_id": 900107,
-      "tab_items": [
-        {
-          "id": 900314,
-          "comanda_id": 900210,
-          "tipo": "salao_servicos",
-          "item": "Escova",
-          "valor": 79,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-21 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900211,
-      "numero": 1,
-      "data": "2025-07-22 00:00:00",
-      "salao_cliente_id": 900110,
-      "tab_items": [
-        {
-          "id": 900315,
-          "comanda_id": 900211,
-          "tipo": "salao_servicos",
-          "item": "Escova",
-          "valor": 79,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-22 10:00:00"
-        },
-        {
-          "id": 900316,
-          "comanda_id": 900211,
-          "tipo": "salao_servicos",
-          "item": "Sobrancelha Design",
-          "valor": 60,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-22 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900212,
-      "numero": 2,
-      "data": "2025-07-22 00:00:00",
-      "salao_cliente_id": 900102,
-      "tab_items": [
-        {
-          "id": 900317,
-          "comanda_id": 900212,
-          "tipo": "salao_servicos",
-          "item": "Sobrancelha Design",
-          "valor": 60,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
-          "status": 0,
-          "datacad": "2025-07-22 10:00:00"
         }
       ]
     },
     {
       "id": 900213,
-      "numero": 3,
-      "data": "2025-07-22 00:00:00",
-      "salao_cliente_id": 900102,
+      "numero": 4,
+      "data": "2025-07-21 00:00:00",
+      "salao_cliente_id": 900117,
       "tab_items": [
         {
           "id": 900318,
           "comanda_id": 900213,
           "tipo": "salao_servicos",
-          "item": "Corte Feminino",
-          "valor": 90,
+          "item": "Maquiagem",
+          "valor": 198,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 40,
+          "comissao": 70,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-07-22 10:00:00"
+          "datacad": "2025-07-21 10:00:00"
         }
       ]
     },
     {
       "id": 900214,
       "numero": 1,
-      "data": "2025-07-23 00:00:00",
-      "salao_cliente_id": 900100,
+      "data": "2025-07-22 00:00:00",
+      "salao_cliente_id": 900116,
       "tab_items": [
         {
           "id": 900319,
           "comanda_id": 900214,
           "tipo": "salao_servicos",
-          "item": "Coloração",
-          "valor": 250,
+          "item": "Maquiagem",
+          "valor": 198,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 35,
+          "comissao": 70,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-07-23 10:00:00"
+          "datacad": "2025-07-22 10:00:00"
         }
       ]
     },
     {
       "id": 900215,
       "numero": 2,
-      "data": "2025-07-23 00:00:00",
-      "salao_cliente_id": 900123,
+      "data": "2025-07-22 00:00:00",
+      "salao_cliente_id": 900116,
       "tab_items": [
         {
           "id": 900320,
           "comanda_id": 900215,
+          "tipo": "salao_servicos",
+          "item": "Hidratação",
+          "valor": 120,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 45,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-22 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900216,
+      "numero": 3,
+      "data": "2025-07-22 00:00:00",
+      "salao_cliente_id": 900103,
+      "tab_items": [
+        {
+          "id": 900321,
+          "comanda_id": 900216,
+          "tipo": "salao_servicos",
+          "item": "Sobrancelha Design",
+          "valor": 60,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 50,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-22 10:00:00"
+        },
+        {
+          "id": 900322,
+          "comanda_id": 900216,
+          "tipo": "salao_servicos",
+          "item": "Corte Feminino",
+          "valor": 90,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 40,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-22 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900217,
+      "numero": 1,
+      "data": "2025-07-23 00:00:00",
+      "salao_cliente_id": 900119,
+      "tab_items": [
+        {
+          "id": 900323,
+          "comanda_id": 900217,
           "tipo": "salao_servicos",
           "item": "Coloração",
           "valor": 250,
@@ -623,30 +681,8 @@
           "datacad": "2025-07-23 10:00:00"
         },
         {
-          "id": 900321,
-          "comanda_id": 900215,
-          "tipo": "salao_servicos",
-          "item": "Sobrancelha Design",
-          "valor": 60,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-23 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900216,
-      "numero": 3,
-      "data": "2025-07-23 00:00:00",
-      "salao_cliente_id": 900110,
-      "tab_items": [
-        {
-          "id": 900322,
-          "comanda_id": 900216,
+          "id": 900324,
+          "comanda_id": 900217,
           "tipo": "salao_servicos",
           "item": "Hidratação",
           "valor": 120,
@@ -654,28 +690,6 @@
           "quantidade": 1,
           "custo": 0,
           "comissao": 45,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-23 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900217,
-      "numero": 4,
-      "data": "2025-07-23 00:00:00",
-      "salao_cliente_id": 900110,
-      "tab_items": [
-        {
-          "id": 900323,
-          "comanda_id": 900217,
-          "tipo": "salao_servicos",
-          "item": "Sobrancelha Design",
-          "valor": 60,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
           "profissional_id": 900001,
           "status": 1,
           "datacad": "2025-07-23 10:00:00"
@@ -684,24 +698,10 @@
     },
     {
       "id": 900218,
-      "numero": 5,
+      "numero": 2,
       "data": "2025-07-23 00:00:00",
-      "salao_cliente_id": 900110,
+      "salao_cliente_id": 900106,
       "tab_items": [
-        {
-          "id": 900324,
-          "comanda_id": 900218,
-          "tipo": "salao_servicos",
-          "item": "Escova",
-          "valor": 79,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
-          "status": 0,
-          "datacad": "2025-07-23 10:00:00"
-        },
         {
           "id": 900325,
           "comanda_id": 900218,
@@ -715,18 +715,76 @@
           "profissional_id": 900001,
           "status": 1,
           "datacad": "2025-07-23 10:00:00"
+        },
+        {
+          "id": 900326,
+          "comanda_id": 900218,
+          "tipo": "salao_servicos",
+          "item": "Hidratação",
+          "valor": 120,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 45,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-23 10:00:00"
         }
       ]
     },
     {
       "id": 900219,
-      "numero": 6,
+      "numero": 3,
       "data": "2025-07-23 00:00:00",
-      "salao_cliente_id": 900111,
+      "salao_cliente_id": 900121,
       "tab_items": [
         {
-          "id": 900326,
+          "id": 900327,
           "comanda_id": 900219,
+          "tipo": "salao_servicos",
+          "item": "Corte Feminino",
+          "valor": 90,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 40,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-23 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900220,
+      "numero": 4,
+      "data": "2025-07-23 00:00:00",
+      "salao_cliente_id": 900107,
+      "tab_items": [
+        {
+          "id": 900328,
+          "comanda_id": 900220,
+          "tipo": "salao_servicos",
+          "item": "Hidratação",
+          "valor": 120,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 45,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-23 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900221,
+      "numero": 5,
+      "data": "2025-07-23 00:00:00",
+      "salao_cliente_id": 900112,
+      "tab_items": [
+        {
+          "id": 900329,
+          "comanda_id": 900221,
           "tipo": "salao_servicos",
           "item": "Escova",
           "valor": 79,
@@ -737,70 +795,12 @@
           "profissional_id": 900001,
           "status": 1,
           "datacad": "2025-07-23 10:00:00"
-        },
-        {
-          "id": 900327,
-          "comanda_id": 900219,
-          "tipo": "salao_servicos",
-          "item": "Maquiagem",
-          "valor": 198,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 70,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-23 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900220,
-      "numero": 1,
-      "data": "2025-07-24 00:00:00",
-      "salao_cliente_id": 900100,
-      "tab_items": [
-        {
-          "id": 900328,
-          "comanda_id": 900220,
-          "tipo": "salao_servicos",
-          "item": "Maquiagem",
-          "valor": 198,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 70,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-24 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900221,
-      "numero": 2,
-      "data": "2025-07-24 00:00:00",
-      "salao_cliente_id": 900117,
-      "tab_items": [
-        {
-          "id": 900329,
-          "comanda_id": 900221,
-          "tipo": "salao_servicos",
-          "item": "Maquiagem",
-          "valor": 198,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 70,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-24 10:00:00"
         }
       ]
     },
     {
       "id": 900222,
-      "numero": 3,
+      "numero": 1,
       "data": "2025-07-24 00:00:00",
       "salao_cliente_id": 900108,
       "tab_items": [
@@ -808,8 +808,8 @@
           "id": 900330,
           "comanda_id": 900222,
           "tipo": "salao_servicos",
-          "item": "Sobrancelha Design",
-          "valor": 60,
+          "item": "Escova",
+          "valor": 79,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
@@ -822,6 +822,42 @@
           "id": 900331,
           "comanda_id": 900222,
           "tipo": "salao_servicos",
+          "item": "Maquiagem",
+          "valor": 198,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 70,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-24 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900223,
+      "numero": 2,
+      "data": "2025-07-24 00:00:00",
+      "salao_cliente_id": 900110,
+      "tab_items": [
+        {
+          "id": 900332,
+          "comanda_id": 900223,
+          "tipo": "salao_servicos",
+          "item": "Sobrancelha Design",
+          "valor": 60,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 50,
+          "profissional_id": 900001,
+          "status": 0,
+          "datacad": "2025-07-24 10:00:00"
+        },
+        {
+          "id": 900333,
+          "comanda_id": 900223,
+          "tipo": "salao_servicos",
           "item": "Coloração",
           "valor": 250,
           "desconto": 0,
@@ -835,28 +871,50 @@
       ]
     },
     {
-      "id": 900223,
-      "numero": 4,
+      "id": 900224,
+      "numero": 3,
       "data": "2025-07-24 00:00:00",
-      "salao_cliente_id": 900108,
+      "salao_cliente_id": 900101,
       "tab_items": [
         {
-          "id": 900332,
-          "comanda_id": 900223,
+          "id": 900334,
+          "comanda_id": 900224,
           "tipo": "salao_servicos",
-          "item": "Corte Feminino",
-          "valor": 90,
+          "item": "Coloração",
+          "valor": 250,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 40,
+          "comissao": 35,
           "profissional_id": 900001,
-          "status": 0,
+          "status": 1,
+          "datacad": "2025-07-24 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900225,
+      "numero": 4,
+      "data": "2025-07-24 00:00:00",
+      "salao_cliente_id": 900103,
+      "tab_items": [
+        {
+          "id": 900335,
+          "comanda_id": 900225,
+          "tipo": "salao_servicos",
+          "item": "Coloração",
+          "valor": 250,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 35,
+          "profissional_id": 900001,
+          "status": 1,
           "datacad": "2025-07-24 10:00:00"
         },
         {
-          "id": 900333,
-          "comanda_id": 900223,
+          "id": 900336,
+          "comanda_id": 900225,
           "tipo": "salao_servicos",
           "item": "Sobrancelha Design",
           "valor": 60,
@@ -865,20 +923,34 @@
           "custo": 0,
           "comissao": 50,
           "profissional_id": 900001,
-          "status": 1,
+          "status": 0,
           "datacad": "2025-07-24 10:00:00"
         }
       ]
     },
     {
-      "id": 900224,
+      "id": 900226,
       "numero": 1,
       "data": "2025-07-25 00:00:00",
-      "salao_cliente_id": 900117,
+      "salao_cliente_id": 900105,
       "tab_items": [
         {
-          "id": 900334,
-          "comanda_id": 900224,
+          "id": 900337,
+          "comanda_id": 900226,
+          "tipo": "salao_servicos",
+          "item": "Hidratação",
+          "valor": 120,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 45,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-25 10:00:00"
+        },
+        {
+          "id": 900338,
+          "comanda_id": 900226,
           "tipo": "salao_servicos",
           "item": "Escova",
           "valor": 79,
@@ -893,82 +965,10 @@
       ]
     },
     {
-      "id": 900225,
+      "id": 900227,
       "numero": 2,
       "data": "2025-07-25 00:00:00",
-      "salao_cliente_id": 900114,
-      "tab_items": [
-        {
-          "id": 900335,
-          "comanda_id": 900225,
-          "tipo": "salao_servicos",
-          "item": "Sobrancelha Design",
-          "valor": 60,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-25 10:00:00"
-        },
-        {
-          "id": 900336,
-          "comanda_id": 900225,
-          "tipo": "salao_servicos",
-          "item": "Coloração",
-          "valor": 250,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 35,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-25 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900226,
-      "numero": 3,
-      "data": "2025-07-25 00:00:00",
-      "salao_cliente_id": 900124,
-      "tab_items": [
-        {
-          "id": 900337,
-          "comanda_id": 900226,
-          "tipo": "salao_servicos",
-          "item": "Maquiagem",
-          "valor": 198,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 70,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-25 10:00:00"
-        },
-        {
-          "id": 900338,
-          "comanda_id": 900226,
-          "tipo": "salao_servicos",
-          "item": "Hidratação",
-          "valor": 120,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 45,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-25 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900227,
-      "numero": 4,
-      "data": "2025-07-25 00:00:00",
-      "salao_cliente_id": 900101,
+      "salao_cliente_id": 900109,
       "tab_items": [
         {
           "id": 900339,
@@ -988,49 +988,13 @@
     },
     {
       "id": 900228,
-      "numero": 5,
+      "numero": 3,
       "data": "2025-07-25 00:00:00",
       "salao_cliente_id": 900111,
       "tab_items": [
         {
           "id": 900340,
           "comanda_id": 900228,
-          "tipo": "salao_servicos",
-          "item": "Hidratação",
-          "valor": 120,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 45,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-25 10:00:00"
-        },
-        {
-          "id": 900341,
-          "comanda_id": 900228,
-          "tipo": "salao_servicos",
-          "item": "Corte Feminino",
-          "valor": 90,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 40,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-25 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900229,
-      "numero": 1,
-      "data": "2025-07-26 00:00:00",
-      "salao_cliente_id": 900102,
-      "tab_items": [
-        {
-          "id": 900342,
-          "comanda_id": 900229,
           "tipo": "salao_servicos",
           "item": "Escova",
           "valor": 79,
@@ -1039,19 +1003,27 @@
           "custo": 0,
           "comissao": 50,
           "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-26 10:00:00"
-        },
+          "status": 0,
+          "datacad": "2025-07-25 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900229,
+      "numero": 1,
+      "data": "2025-07-26 00:00:00",
+      "salao_cliente_id": 900100,
+      "tab_items": [
         {
-          "id": 900343,
+          "id": 900341,
           "comanda_id": 900229,
           "tipo": "salao_servicos",
-          "item": "Coloração",
-          "valor": 250,
+          "item": "Corte Feminino",
+          "valor": 90,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 35,
+          "comissao": 40,
           "profissional_id": 900001,
           "status": 1,
           "datacad": "2025-07-26 10:00:00"
@@ -1062,28 +1034,28 @@
       "id": 900230,
       "numero": 2,
       "data": "2025-07-26 00:00:00",
-      "salao_cliente_id": 900114,
+      "salao_cliente_id": 900104,
       "tab_items": [
         {
-          "id": 900344,
+          "id": 900342,
           "comanda_id": 900230,
           "tipo": "salao_servicos",
-          "item": "Coloração",
-          "valor": 250,
+          "item": "Corte Feminino",
+          "valor": 90,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 35,
+          "comissao": 40,
           "profissional_id": 900001,
           "status": 1,
           "datacad": "2025-07-26 10:00:00"
         },
         {
-          "id": 900345,
+          "id": 900343,
           "comanda_id": 900230,
           "tipo": "salao_servicos",
-          "item": "Sobrancelha Design",
-          "valor": 60,
+          "item": "Escova",
+          "valor": 79,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
@@ -1098,10 +1070,10 @@
       "id": 900231,
       "numero": 3,
       "data": "2025-07-26 00:00:00",
-      "salao_cliente_id": 900118,
+      "salao_cliente_id": 900124,
       "tab_items": [
         {
-          "id": 900346,
+          "id": 900344,
           "comanda_id": 900231,
           "tipo": "salao_servicos",
           "item": "Corte Feminino",
@@ -1111,60 +1083,88 @@
           "custo": 0,
           "comissao": 40,
           "profissional_id": 900001,
-          "status": 0,
+          "status": 1,
+          "datacad": "2025-07-26 10:00:00"
+        },
+        {
+          "id": 900345,
+          "comanda_id": 900231,
+          "tipo": "salao_servicos",
+          "item": "Hidratação",
+          "valor": 120,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 45,
+          "profissional_id": 900001,
+          "status": 1,
           "datacad": "2025-07-26 10:00:00"
         }
       ]
     },
     {
       "id": 900232,
-      "numero": 1,
-      "data": "2025-07-28 00:00:00",
-      "salao_cliente_id": 900120,
+      "numero": 4,
+      "data": "2025-07-26 00:00:00",
+      "salao_cliente_id": 900113,
       "tab_items": [
+        {
+          "id": 900346,
+          "comanda_id": 900232,
+          "tipo": "salao_servicos",
+          "item": "Hidratação",
+          "valor": 120,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 45,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-26 10:00:00"
+        },
         {
           "id": 900347,
           "comanda_id": 900232,
           "tipo": "salao_servicos",
-          "item": "Sobrancelha Design",
-          "valor": 60,
+          "item": "Maquiagem",
+          "valor": 198,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 50,
+          "comissao": 70,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-07-28 10:00:00"
+          "datacad": "2025-07-26 10:00:00"
         }
       ]
     },
     {
       "id": 900233,
-      "numero": 2,
-      "data": "2025-07-28 00:00:00",
-      "salao_cliente_id": 900101,
+      "numero": 5,
+      "data": "2025-07-26 00:00:00",
+      "salao_cliente_id": 900107,
       "tab_items": [
         {
           "id": 900348,
           "comanda_id": 900233,
           "tipo": "salao_servicos",
-          "item": "Sobrancelha Design",
-          "valor": 60,
+          "item": "Corte Feminino",
+          "valor": 90,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 50,
+          "comissao": 40,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-07-28 10:00:00"
+          "datacad": "2025-07-26 10:00:00"
         }
       ]
     },
     {
       "id": 900234,
-      "numero": 3,
+      "numero": 1,
       "data": "2025-07-28 00:00:00",
-      "salao_cliente_id": 900108,
+      "salao_cliente_id": 900123,
       "tab_items": [
         {
           "id": 900349,
@@ -1184,20 +1184,34 @@
     },
     {
       "id": 900235,
-      "numero": 4,
+      "numero": 2,
       "data": "2025-07-28 00:00:00",
-      "salao_cliente_id": 900109,
+      "salao_cliente_id": 900102,
       "tab_items": [
         {
           "id": 900350,
           "comanda_id": 900235,
           "tipo": "salao_servicos",
-          "item": "Escova",
-          "valor": 79,
+          "item": "Maquiagem",
+          "valor": 198,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 50,
+          "comissao": 70,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-28 10:00:00"
+        },
+        {
+          "id": 900351,
+          "comanda_id": 900235,
+          "tipo": "salao_servicos",
+          "item": "Coloração",
+          "valor": 250,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 35,
           "profissional_id": 900001,
           "status": 1,
           "datacad": "2025-07-28 10:00:00"
@@ -1206,12 +1220,26 @@
     },
     {
       "id": 900236,
-      "numero": 5,
-      "data": "2025-07-28 00:00:00",
-      "salao_cliente_id": 900111,
+      "numero": 1,
+      "data": "2025-07-29 00:00:00",
+      "salao_cliente_id": 900119,
       "tab_items": [
         {
-          "id": 900351,
+          "id": 900352,
+          "comanda_id": 900236,
+          "tipo": "salao_servicos",
+          "item": "Coloração",
+          "valor": 250,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 35,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-29 10:00:00"
+        },
+        {
+          "id": 900353,
           "comanda_id": 900236,
           "tipo": "salao_servicos",
           "item": "Escova",
@@ -1222,62 +1250,62 @@
           "comissao": 50,
           "profissional_id": 900001,
           "status": 0,
-          "datacad": "2025-07-28 10:00:00"
+          "datacad": "2025-07-29 10:00:00"
         }
       ]
     },
     {
       "id": 900237,
-      "numero": 6,
-      "data": "2025-07-28 00:00:00",
-      "salao_cliente_id": 900118,
+      "numero": 2,
+      "data": "2025-07-29 00:00:00",
+      "salao_cliente_id": 900114,
       "tab_items": [
         {
-          "id": 900352,
+          "id": 900354,
           "comanda_id": 900237,
           "tipo": "salao_servicos",
-          "item": "Corte Feminino",
-          "valor": 90,
+          "item": "Sobrancelha Design",
+          "valor": 60,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 40,
-          "profissional_id": 900001,
-          "status": 0,
-          "datacad": "2025-07-28 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900238,
-      "numero": 1,
-      "data": "2025-07-29 00:00:00",
-      "salao_cliente_id": 900104,
-      "tab_items": [
-        {
-          "id": 900353,
-          "comanda_id": 900238,
-          "tipo": "salao_servicos",
-          "item": "Corte Feminino",
-          "valor": 90,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 40,
+          "comissao": 50,
           "profissional_id": 900001,
           "status": 1,
           "datacad": "2025-07-29 10:00:00"
         },
         {
-          "id": 900354,
-          "comanda_id": 900238,
+          "id": 900355,
+          "comanda_id": 900237,
           "tipo": "salao_servicos",
-          "item": "Escova",
-          "valor": 79,
+          "item": "Hidratação",
+          "valor": 120,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 50,
+          "comissao": 45,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-29 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900238,
+      "numero": 3,
+      "data": "2025-07-29 00:00:00",
+      "salao_cliente_id": 900124,
+      "tab_items": [
+        {
+          "id": 900356,
+          "comanda_id": 900238,
+          "tipo": "salao_servicos",
+          "item": "Corte Feminino",
+          "valor": 90,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 40,
           "profissional_id": 900001,
           "status": 1,
           "datacad": "2025-07-29 10:00:00"
@@ -1286,12 +1314,12 @@
     },
     {
       "id": 900239,
-      "numero": 2,
-      "data": "2025-07-29 00:00:00",
-      "salao_cliente_id": 900124,
+      "numero": 1,
+      "data": "2025-07-30 00:00:00",
+      "salao_cliente_id": 900101,
       "tab_items": [
         {
-          "id": 900355,
+          "id": 900357,
           "comanda_id": 900239,
           "tipo": "salao_servicos",
           "item": "Corte Feminino",
@@ -1302,46 +1330,32 @@
           "comissao": 40,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-07-29 10:00:00"
+          "datacad": "2025-07-30 10:00:00"
         },
         {
-          "id": 900356,
+          "id": 900358,
           "comanda_id": 900239,
           "tipo": "salao_servicos",
-          "item": "Hidratação",
-          "valor": 120,
+          "item": "Sobrancelha Design",
+          "valor": 60,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 45,
+          "comissao": 50,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-07-29 10:00:00"
+          "datacad": "2025-07-30 10:00:00"
         }
       ]
     },
     {
       "id": 900240,
-      "numero": 3,
-      "data": "2025-07-29 00:00:00",
-      "salao_cliente_id": 900113,
+      "numero": 2,
+      "data": "2025-07-30 00:00:00",
+      "salao_cliente_id": 900102,
       "tab_items": [
         {
-          "id": 900357,
-          "comanda_id": 900240,
-          "tipo": "salao_servicos",
-          "item": "Hidratação",
-          "valor": 120,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 45,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-29 10:00:00"
-        },
-        {
-          "id": 900358,
+          "id": 900359,
           "comanda_id": 900240,
           "tipo": "salao_servicos",
           "item": "Maquiagem",
@@ -1352,18 +1366,32 @@
           "comissao": 70,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-07-29 10:00:00"
+          "datacad": "2025-07-30 10:00:00"
         }
       ]
     },
     {
       "id": 900241,
-      "numero": 4,
-      "data": "2025-07-29 00:00:00",
-      "salao_cliente_id": 900107,
+      "numero": 1,
+      "data": "2025-07-31 00:00:00",
+      "salao_cliente_id": 900106,
       "tab_items": [
         {
-          "id": 900359,
+          "id": 900360,
+          "comanda_id": 900241,
+          "tipo": "salao_servicos",
+          "item": "Hidratação",
+          "valor": 120,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 45,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-07-31 10:00:00"
+        },
+        {
+          "id": 900361,
           "comanda_id": 900241,
           "tipo": "salao_servicos",
           "item": "Corte Feminino",
@@ -1374,54 +1402,40 @@
           "comissao": 40,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-07-29 10:00:00"
+          "datacad": "2025-07-31 10:00:00"
         }
       ]
     },
     {
       "id": 900242,
-      "numero": 1,
-      "data": "2025-07-30 00:00:00",
+      "numero": 2,
+      "data": "2025-07-31 00:00:00",
       "salao_cliente_id": 900104,
       "tab_items": [
         {
-          "id": 900360,
+          "id": 900362,
           "comanda_id": 900242,
           "tipo": "salao_servicos",
-          "item": "Maquiagem",
-          "valor": 198,
+          "item": "Coloração",
+          "valor": 250,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 70,
+          "comissao": 35,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-07-30 10:00:00"
-        },
-        {
-          "id": 900361,
-          "comanda_id": 900242,
-          "tipo": "salao_servicos",
-          "item": "Corte Feminino",
-          "valor": 90,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 40,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-30 10:00:00"
+          "datacad": "2025-07-31 10:00:00"
         }
       ]
     },
     {
       "id": 900243,
-      "numero": 2,
-      "data": "2025-07-30 00:00:00",
-      "salao_cliente_id": 900121,
+      "numero": 3,
+      "data": "2025-07-31 00:00:00",
+      "salao_cliente_id": 900110,
       "tab_items": [
         {
-          "id": 900362,
+          "id": 900363,
           "comanda_id": 900243,
           "tipo": "salao_servicos",
           "item": "Hidratação",
@@ -1432,107 +1446,77 @@
           "comissao": 45,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-07-30 10:00:00"
+          "datacad": "2025-07-31 10:00:00"
         }
       ]
     },
     {
       "id": 900244,
-      "numero": 3,
-      "data": "2025-07-30 00:00:00",
-      "salao_cliente_id": 900104,
+      "numero": 1,
+      "data": "2025-08-01 00:00:00",
+      "salao_cliente_id": 900108,
       "tab_items": [
         {
-          "id": 900363,
+          "id": 900364,
           "comanda_id": 900244,
           "tipo": "salao_servicos",
-          "item": "Maquiagem",
-          "valor": 198,
+          "item": "Hidratação",
+          "valor": 120,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 70,
+          "comissao": 45,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-07-30 10:00:00"
+          "datacad": "2025-08-01 10:00:00"
         }
       ]
     },
     {
       "id": 900245,
-      "numero": 4,
-      "data": "2025-07-30 00:00:00",
-      "salao_cliente_id": 900115,
+      "numero": 2,
+      "data": "2025-08-01 00:00:00",
+      "salao_cliente_id": 900102,
       "tab_items": [
         {
-          "id": 900364,
+          "id": 900365,
           "comanda_id": 900245,
           "tipo": "salao_servicos",
-          "item": "Maquiagem",
-          "valor": 198,
+          "item": "Coloração",
+          "valor": 250,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 70,
+          "comissao": 35,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-07-30 10:00:00"
+          "datacad": "2025-08-01 10:00:00"
         }
       ]
     },
     {
       "id": 900246,
-      "numero": 1,
-      "data": "2025-07-31 00:00:00",
-      "salao_cliente_id": 900117,
-      "tab_items": [
-        {
-          "id": 900365,
-          "comanda_id": 900246,
-          "tipo": "salao_servicos",
-          "item": "Coloração",
-          "valor": 250,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 35,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-31 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900247,
-      "numero": 2,
-      "data": "2025-07-31 00:00:00",
-      "salao_cliente_id": 900100,
+      "numero": 3,
+      "data": "2025-08-01 00:00:00",
+      "salao_cliente_id": 900121,
       "tab_items": [
         {
           "id": 900366,
-          "comanda_id": 900247,
+          "comanda_id": 900246,
           "tipo": "salao_servicos",
-          "item": "Coloração",
-          "valor": 250,
+          "item": "Escova",
+          "valor": 79,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 35,
+          "comissao": 50,
           "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-31 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900248,
-      "numero": 3,
-      "data": "2025-07-31 00:00:00",
-      "salao_cliente_id": 900101,
-      "tab_items": [
+          "status": 0,
+          "datacad": "2025-08-01 10:00:00"
+        },
         {
           "id": 900367,
-          "comanda_id": 900248,
+          "comanda_id": 900246,
           "tipo": "salao_servicos",
           "item": "Corte Feminino",
           "valor": 90,
@@ -1542,10 +1526,40 @@
           "comissao": 40,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-07-31 10:00:00"
-        },
+          "datacad": "2025-08-01 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900247,
+      "numero": 1,
+      "data": "2025-08-02 00:00:00",
+      "salao_cliente_id": 900117,
+      "tab_items": [
         {
           "id": 900368,
+          "comanda_id": 900247,
+          "tipo": "salao_servicos",
+          "item": "Corte Feminino",
+          "valor": 90,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 40,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-08-02 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900248,
+      "numero": 2,
+      "data": "2025-08-02 00:00:00",
+      "salao_cliente_id": 900104,
+      "tab_items": [
+        {
+          "id": 900369,
           "comanda_id": 900248,
           "tipo": "salao_servicos",
           "item": "Sobrancelha Design",
@@ -1555,41 +1569,41 @@
           "custo": 0,
           "comissao": 50,
           "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-31 10:00:00"
+          "status": 0,
+          "datacad": "2025-08-02 10:00:00"
         }
       ]
     },
     {
       "id": 900249,
-      "numero": 4,
-      "data": "2025-07-31 00:00:00",
-      "salao_cliente_id": 900102,
+      "numero": 3,
+      "data": "2025-08-02 00:00:00",
+      "salao_cliente_id": 900106,
       "tab_items": [
         {
-          "id": 900369,
+          "id": 900370,
           "comanda_id": 900249,
           "tipo": "salao_servicos",
-          "item": "Maquiagem",
-          "valor": 198,
+          "item": "Escova",
+          "valor": 79,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 70,
+          "comissao": 50,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-07-31 10:00:00"
+          "datacad": "2025-08-02 10:00:00"
         }
       ]
     },
     {
       "id": 900250,
-      "numero": 5,
-      "data": "2025-07-31 00:00:00",
-      "salao_cliente_id": 900106,
+      "numero": 1,
+      "data": "2025-08-03 00:00:00",
+      "salao_cliente_id": 900123,
       "tab_items": [
         {
-          "id": 900370,
+          "id": 900371,
           "comanda_id": 900250,
           "tipo": "salao_servicos",
           "item": "Hidratação",
@@ -1600,107 +1614,11 @@
           "comissao": 45,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-07-31 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900251,
-      "numero": 6,
-      "data": "2025-07-31 00:00:00",
-      "salao_cliente_id": 900111,
-      "tab_items": [
-        {
-          "id": 900371,
-          "comanda_id": 900251,
-          "tipo": "salao_servicos",
-          "item": "Sobrancelha Design",
-          "valor": 60,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-07-31 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900252,
-      "numero": 1,
-      "data": "2025-08-01 00:00:00",
-      "salao_cliente_id": 900111,
-      "tab_items": [
+          "datacad": "2025-08-03 10:00:00"
+        },
         {
           "id": 900372,
-          "comanda_id": 900252,
-          "tipo": "salao_servicos",
-          "item": "Coloração",
-          "valor": 250,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 35,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-08-01 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900253,
-      "numero": 2,
-      "data": "2025-08-01 00:00:00",
-      "salao_cliente_id": 900102,
-      "tab_items": [
-        {
-          "id": 900373,
-          "comanda_id": 900253,
-          "tipo": "salao_servicos",
-          "item": "Escova",
-          "valor": 79,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-08-01 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900254,
-      "numero": 3,
-      "data": "2025-08-01 00:00:00",
-      "salao_cliente_id": 900113,
-      "tab_items": [
-        {
-          "id": 900374,
-          "comanda_id": 900254,
-          "tipo": "salao_servicos",
-          "item": "Escova",
-          "valor": 79,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-08-01 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900255,
-      "numero": 4,
-      "data": "2025-08-01 00:00:00",
-      "salao_cliente_id": 900117,
-      "tab_items": [
-        {
-          "id": 900375,
-          "comanda_id": 900255,
+          "comanda_id": 900250,
           "tipo": "salao_servicos",
           "item": "Maquiagem",
           "valor": 198,
@@ -1710,41 +1628,41 @@
           "comissao": 70,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-08-01 10:00:00"
+          "datacad": "2025-08-03 10:00:00"
         }
       ]
     },
     {
-      "id": 900256,
-      "numero": 5,
-      "data": "2025-08-01 00:00:00",
-      "salao_cliente_id": 900109,
+      "id": 900251,
+      "numero": 2,
+      "data": "2025-08-03 00:00:00",
+      "salao_cliente_id": 900107,
       "tab_items": [
         {
-          "id": 900376,
-          "comanda_id": 900256,
+          "id": 900373,
+          "comanda_id": 900251,
           "tipo": "salao_servicos",
-          "item": "Escova",
-          "valor": 79,
+          "item": "Hidratação",
+          "valor": 120,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 50,
+          "comissao": 45,
           "profissional_id": 900001,
-          "status": 0,
-          "datacad": "2025-08-01 10:00:00"
+          "status": 1,
+          "datacad": "2025-08-03 10:00:00"
         }
       ]
     },
     {
-      "id": 900257,
-      "numero": 6,
-      "data": "2025-08-01 00:00:00",
-      "salao_cliente_id": 900117,
+      "id": 900252,
+      "numero": 3,
+      "data": "2025-08-03 00:00:00",
+      "salao_cliente_id": 900102,
       "tab_items": [
         {
-          "id": 900377,
-          "comanda_id": 900257,
+          "id": 900374,
+          "comanda_id": 900252,
           "tipo": "salao_servicos",
           "item": "Corte Feminino",
           "valor": 90,
@@ -1754,54 +1672,206 @@
           "comissao": 40,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-08-01 10:00:00"
+          "datacad": "2025-08-03 10:00:00"
+        },
+        {
+          "id": 900375,
+          "comanda_id": 900252,
+          "tipo": "salao_servicos",
+          "item": "Sobrancelha Design",
+          "valor": 60,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 50,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-08-03 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900253,
+      "numero": 1,
+      "data": "2025-08-04 00:00:00",
+      "salao_cliente_id": 900103,
+      "tab_items": [
+        {
+          "id": 900376,
+          "comanda_id": 900253,
+          "tipo": "salao_servicos",
+          "item": "Sobrancelha Design",
+          "valor": 60,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 50,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-08-04 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900254,
+      "numero": 2,
+      "data": "2025-08-04 00:00:00",
+      "salao_cliente_id": 900102,
+      "tab_items": [
+        {
+          "id": 900377,
+          "comanda_id": 900254,
+          "tipo": "salao_servicos",
+          "item": "Corte Feminino",
+          "valor": 90,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 40,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-08-04 10:00:00"
+        },
+        {
+          "id": 900378,
+          "comanda_id": 900254,
+          "tipo": "salao_servicos",
+          "item": "Sobrancelha Design",
+          "valor": 60,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 50,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-08-04 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900255,
+      "numero": 3,
+      "data": "2025-08-04 00:00:00",
+      "salao_cliente_id": 900103,
+      "tab_items": [
+        {
+          "id": 900379,
+          "comanda_id": 900255,
+          "tipo": "salao_servicos",
+          "item": "Coloração",
+          "valor": 250,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 35,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-08-04 10:00:00"
+        },
+        {
+          "id": 900380,
+          "comanda_id": 900255,
+          "tipo": "salao_servicos",
+          "item": "Escova",
+          "valor": 79,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 50,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-08-04 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900256,
+      "numero": 1,
+      "data": "2025-08-05 00:00:00",
+      "salao_cliente_id": 900113,
+      "tab_items": [
+        {
+          "id": 900381,
+          "comanda_id": 900256,
+          "tipo": "salao_servicos",
+          "item": "Hidratação",
+          "valor": 120,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 45,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-08-05 10:00:00"
+        }
+      ]
+    },
+    {
+      "id": 900257,
+      "numero": 2,
+      "data": "2025-08-05 00:00:00",
+      "salao_cliente_id": 900114,
+      "tab_items": [
+        {
+          "id": 900382,
+          "comanda_id": 900257,
+          "tipo": "salao_servicos",
+          "item": "Maquiagem",
+          "valor": 198,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 70,
+          "profissional_id": 900001,
+          "status": 0,
+          "datacad": "2025-08-05 10:00:00"
         }
       ]
     },
     {
       "id": 900258,
       "numero": 1,
-      "data": "2025-08-02 00:00:00",
-      "salao_cliente_id": 900107,
+      "data": "2025-08-06 00:00:00",
+      "salao_cliente_id": 900119,
       "tab_items": [
         {
-          "id": 900378,
+          "id": 900383,
           "comanda_id": 900258,
           "tipo": "salao_servicos",
-          "item": "Escova",
-          "valor": 79,
+          "item": "Coloração",
+          "valor": 250,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 50,
+          "comissao": 35,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-08-02 10:00:00"
-        },
-        {
-          "id": 900379,
-          "comanda_id": 900258,
-          "tipo": "salao_servicos",
-          "item": "Corte Feminino",
-          "valor": 90,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 40,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-08-02 10:00:00"
+          "datacad": "2025-08-06 10:00:00"
         }
       ]
     },
     {
       "id": 900259,
       "numero": 2,
-      "data": "2025-08-02 00:00:00",
-      "salao_cliente_id": 900114,
+      "data": "2025-08-06 00:00:00",
+      "salao_cliente_id": 900107,
       "tab_items": [
         {
-          "id": 900380,
+          "id": 900384,
+          "comanda_id": 900259,
+          "tipo": "salao_servicos",
+          "item": "Hidratação",
+          "valor": 120,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 45,
+          "profissional_id": 900001,
+          "status": 0,
+          "datacad": "2025-08-06 10:00:00"
+        },
+        {
+          "id": 900385,
           "comanda_id": 900259,
           "tipo": "salao_servicos",
           "item": "Coloração",
@@ -1811,19 +1881,33 @@
           "custo": 0,
           "comissao": 35,
           "profissional_id": 900001,
-          "status": 0,
-          "datacad": "2025-08-02 10:00:00"
+          "status": 1,
+          "datacad": "2025-08-06 10:00:00"
         }
       ]
     },
     {
       "id": 900260,
-      "numero": 1,
-      "data": "2025-08-04 00:00:00",
-      "salao_cliente_id": 900120,
+      "numero": 3,
+      "data": "2025-08-06 00:00:00",
+      "salao_cliente_id": 900100,
       "tab_items": [
         {
-          "id": 900381,
+          "id": 900386,
+          "comanda_id": 900260,
+          "tipo": "salao_servicos",
+          "item": "Maquiagem",
+          "valor": 198,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 70,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-08-06 10:00:00"
+        },
+        {
+          "id": 900387,
           "comanda_id": 900260,
           "tipo": "salao_servicos",
           "item": "Corte Feminino",
@@ -1833,33 +1917,19 @@
           "custo": 0,
           "comissao": 40,
           "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-08-04 10:00:00"
+          "status": 0,
+          "datacad": "2025-08-06 10:00:00"
         }
       ]
     },
     {
       "id": 900261,
-      "numero": 2,
-      "data": "2025-08-04 00:00:00",
-      "salao_cliente_id": 900101,
+      "numero": 4,
+      "data": "2025-08-06 00:00:00",
+      "salao_cliente_id": 900123,
       "tab_items": [
         {
-          "id": 900382,
-          "comanda_id": 900261,
-          "tipo": "salao_servicos",
-          "item": "Sobrancelha Design",
-          "valor": 60,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-08-04 10:00:00"
-        },
-        {
-          "id": 900383,
+          "id": 900388,
           "comanda_id": 900261,
           "tipo": "salao_servicos",
           "item": "Hidratação",
@@ -1869,33 +1939,33 @@
           "custo": 0,
           "comissao": 45,
           "profissional_id": 900001,
-          "status": 0,
-          "datacad": "2025-08-04 10:00:00"
+          "status": 1,
+          "datacad": "2025-08-06 10:00:00"
         }
       ]
     },
     {
       "id": 900262,
-      "numero": 3,
-      "data": "2025-08-04 00:00:00",
-      "salao_cliente_id": 900101,
+      "numero": 1,
+      "data": "2025-08-07 00:00:00",
+      "salao_cliente_id": 900113,
       "tab_items": [
         {
-          "id": 900384,
+          "id": 900389,
           "comanda_id": 900262,
           "tipo": "salao_servicos",
-          "item": "Hidratação",
-          "valor": 120,
+          "item": "Sobrancelha Design",
+          "valor": 60,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 45,
+          "comissao": 50,
           "profissional_id": 900001,
-          "status": 0,
-          "datacad": "2025-08-04 10:00:00"
+          "status": 1,
+          "datacad": "2025-08-07 10:00:00"
         },
         {
-          "id": 900385,
+          "id": 900390,
           "comanda_id": 900262,
           "tipo": "salao_servicos",
           "item": "Escova",
@@ -1906,18 +1976,32 @@
           "comissao": 50,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-08-04 10:00:00"
+          "datacad": "2025-08-07 10:00:00"
         }
       ]
     },
     {
       "id": 900263,
-      "numero": 4,
-      "data": "2025-08-04 00:00:00",
-      "salao_cliente_id": 900116,
+      "numero": 2,
+      "data": "2025-08-07 00:00:00",
+      "salao_cliente_id": 900100,
       "tab_items": [
         {
-          "id": 900386,
+          "id": 900391,
+          "comanda_id": 900263,
+          "tipo": "salao_servicos",
+          "item": "Sobrancelha Design",
+          "valor": 60,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 50,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-08-07 10:00:00"
+        },
+        {
+          "id": 900392,
           "comanda_id": 900263,
           "tipo": "salao_servicos",
           "item": "Coloração",
@@ -1927,185 +2011,157 @@
           "custo": 0,
           "comissao": 35,
           "profissional_id": 900001,
-          "status": 0,
-          "datacad": "2025-08-04 10:00:00"
-        },
-        {
-          "id": 900387,
-          "comanda_id": 900263,
-          "tipo": "salao_servicos",
-          "item": "Escova",
-          "valor": 79,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-08-04 10:00:00"
+          "datacad": "2025-08-07 10:00:00"
         }
       ]
     },
     {
       "id": 900264,
-      "numero": 5,
-      "data": "2025-08-04 00:00:00",
-      "salao_cliente_id": 900122,
+      "numero": 3,
+      "data": "2025-08-07 00:00:00",
+      "salao_cliente_id": 900109,
       "tab_items": [
         {
-          "id": 900388,
+          "id": 900393,
           "comanda_id": 900264,
           "tipo": "salao_servicos",
-          "item": "Coloração",
-          "valor": 250,
+          "item": "Sobrancelha Design",
+          "valor": 60,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 35,
+          "comissao": 50,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-08-04 10:00:00"
-        },
-        {
-          "id": 900389,
-          "comanda_id": 900264,
-          "tipo": "salao_servicos",
-          "item": "Hidratação",
-          "valor": 120,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 45,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-08-04 10:00:00"
+          "datacad": "2025-08-07 10:00:00"
         }
       ]
     },
     {
       "id": 900265,
-      "numero": 1,
-      "data": "2025-08-05 00:00:00",
-      "salao_cliente_id": 900102,
+      "numero": 4,
+      "data": "2025-08-07 00:00:00",
+      "salao_cliente_id": 900124,
       "tab_items": [
         {
-          "id": 900390,
+          "id": 900394,
           "comanda_id": 900265,
           "tipo": "salao_servicos",
-          "item": "Corte Feminino",
-          "valor": 90,
+          "item": "Escova",
+          "valor": 79,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 40,
+          "comissao": 50,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-08-05 10:00:00"
-        },
-        {
-          "id": 900391,
-          "comanda_id": 900265,
-          "tipo": "salao_servicos",
-          "item": "Coloração",
-          "valor": 250,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 35,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-08-05 10:00:00"
+          "datacad": "2025-08-07 10:00:00"
         }
       ]
     },
     {
       "id": 900266,
-      "numero": 2,
-      "data": "2025-08-05 00:00:00",
-      "salao_cliente_id": 900118,
+      "numero": 1,
+      "data": "2025-08-08 00:00:00",
+      "salao_cliente_id": 900100,
       "tab_items": [
         {
-          "id": 900392,
+          "id": 900395,
           "comanda_id": 900266,
           "tipo": "salao_servicos",
-          "item": "Sobrancelha Design",
-          "valor": 60,
+          "item": "Escova",
+          "valor": 79,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
           "comissao": 50,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-08-05 10:00:00"
+          "datacad": "2025-08-08 10:00:00"
+        },
+        {
+          "id": 900396,
+          "comanda_id": 900266,
+          "tipo": "salao_servicos",
+          "item": "Maquiagem",
+          "valor": 198,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 70,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-08-08 10:00:00"
         }
       ]
     },
     {
       "id": 900267,
-      "numero": 3,
-      "data": "2025-08-05 00:00:00",
-      "salao_cliente_id": 900114,
+      "numero": 2,
+      "data": "2025-08-08 00:00:00",
+      "salao_cliente_id": 900100,
       "tab_items": [
         {
-          "id": 900393,
+          "id": 900397,
           "comanda_id": 900267,
           "tipo": "salao_servicos",
-          "item": "Sobrancelha Design",
-          "valor": 60,
+          "item": "Hidratação",
+          "valor": 120,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
-          "comissao": 50,
+          "comissao": 45,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-08-05 10:00:00"
+          "datacad": "2025-08-08 10:00:00"
+        },
+        {
+          "id": 900398,
+          "comanda_id": 900267,
+          "tipo": "salao_servicos",
+          "item": "Coloração",
+          "valor": 250,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 35,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-08-08 10:00:00"
         }
       ]
     },
     {
       "id": 900268,
-      "numero": 1,
-      "data": "2025-08-06 00:00:00",
-      "salao_cliente_id": 900120,
+      "numero": 3,
+      "data": "2025-08-08 00:00:00",
+      "salao_cliente_id": 900123,
       "tab_items": [
         {
-          "id": 900394,
+          "id": 900399,
           "comanda_id": 900268,
           "tipo": "salao_servicos",
-          "item": "Escova",
-          "valor": 79,
+          "item": "Sobrancelha Design",
+          "valor": 60,
           "desconto": 0,
           "quantidade": 1,
           "custo": 0,
           "comissao": 50,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-08-06 10:00:00"
+          "datacad": "2025-08-08 10:00:00"
         }
       ]
     },
     {
       "id": 900269,
-      "numero": 2,
-      "data": "2025-08-06 00:00:00",
-      "salao_cliente_id": 900101,
+      "numero": 4,
+      "data": "2025-08-08 00:00:00",
+      "salao_cliente_id": 900113,
       "tab_items": [
         {
-          "id": 900395,
-          "comanda_id": 900269,
-          "tipo": "salao_servicos",
-          "item": "Sobrancelha Design",
-          "valor": 60,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
-          "status": 0,
-          "datacad": "2025-08-06 10:00:00"
-        },
-        {
-          "id": 900396,
+          "id": 900400,
           "comanda_id": 900269,
           "tipo": "salao_servicos",
           "item": "Coloração",
@@ -2116,113 +2172,33 @@
           "comissao": 35,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-08-06 10:00:00"
+          "datacad": "2025-08-08 10:00:00"
+        },
+        {
+          "id": 900401,
+          "comanda_id": 900269,
+          "tipo": "salao_servicos",
+          "item": "Maquiagem",
+          "valor": 198,
+          "desconto": 0,
+          "quantidade": 1,
+          "custo": 0,
+          "comissao": 70,
+          "profissional_id": 900001,
+          "status": 1,
+          "datacad": "2025-08-08 10:00:00"
         }
       ]
     },
     {
       "id": 900270,
-      "numero": 1,
-      "data": "2025-08-07 00:00:00",
-      "salao_cliente_id": 900101,
-      "tab_items": [
-        {
-          "id": 900397,
-          "comanda_id": 900270,
-          "tipo": "salao_servicos",
-          "item": "Maquiagem",
-          "valor": 198,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 70,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-08-07 10:00:00"
-        },
-        {
-          "id": 900398,
-          "comanda_id": 900270,
-          "tipo": "salao_servicos",
-          "item": "Sobrancelha Design",
-          "valor": 60,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-08-07 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900271,
-      "numero": 2,
-      "data": "2025-08-07 00:00:00",
-      "salao_cliente_id": 900111,
-      "tab_items": [
-        {
-          "id": 900399,
-          "comanda_id": 900271,
-          "tipo": "salao_servicos",
-          "item": "Sobrancelha Design",
-          "valor": 60,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-08-07 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900272,
-      "numero": 3,
-      "data": "2025-08-07 00:00:00",
-      "salao_cliente_id": 900115,
-      "tab_items": [
-        {
-          "id": 900400,
-          "comanda_id": 900272,
-          "tipo": "salao_servicos",
-          "item": "Maquiagem",
-          "valor": 198,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 70,
-          "profissional_id": 900001,
-          "status": 0,
-          "datacad": "2025-08-07 10:00:00"
-        },
-        {
-          "id": 900401,
-          "comanda_id": 900272,
-          "tipo": "salao_servicos",
-          "item": "Coloração",
-          "valor": 250,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 35,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-08-07 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900273,
-      "numero": 4,
-      "data": "2025-08-07 00:00:00",
-      "salao_cliente_id": 900116,
+      "numero": 5,
+      "data": "2025-08-08 00:00:00",
+      "salao_cliente_id": 900113,
       "tab_items": [
         {
           "id": 900402,
-          "comanda_id": 900273,
+          "comanda_id": 900270,
           "tipo": "salao_servicos",
           "item": "Sobrancelha Design",
           "valor": 60,
@@ -2232,11 +2208,11 @@
           "comissao": 50,
           "profissional_id": 900001,
           "status": 1,
-          "datacad": "2025-08-07 10:00:00"
+          "datacad": "2025-08-08 10:00:00"
         },
         {
           "id": 900403,
-          "comanda_id": 900273,
+          "comanda_id": 900270,
           "tipo": "salao_servicos",
           "item": "Hidratação",
           "valor": 120,
@@ -2244,130 +2220,6 @@
           "quantidade": 1,
           "custo": 0,
           "comissao": 45,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-08-07 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900274,
-      "numero": 5,
-      "data": "2025-08-07 00:00:00",
-      "salao_cliente_id": 900123,
-      "tab_items": [
-        {
-          "id": 900404,
-          "comanda_id": 900274,
-          "tipo": "salao_servicos",
-          "item": "Hidratação",
-          "valor": 120,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 45,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-08-07 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900275,
-      "numero": 6,
-      "data": "2025-08-07 00:00:00",
-      "salao_cliente_id": 900100,
-      "tab_items": [
-        {
-          "id": 900405,
-          "comanda_id": 900275,
-          "tipo": "salao_servicos",
-          "item": "Maquiagem",
-          "valor": 198,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 70,
-          "profissional_id": 900001,
-          "status": 0,
-          "datacad": "2025-08-07 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900276,
-      "numero": 1,
-      "data": "2025-08-08 00:00:00",
-      "salao_cliente_id": 900106,
-      "tab_items": [
-        {
-          "id": 900406,
-          "comanda_id": 900276,
-          "tipo": "salao_servicos",
-          "item": "Maquiagem",
-          "valor": 198,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 70,
-          "profissional_id": 900001,
-          "status": 0,
-          "datacad": "2025-08-08 10:00:00"
-        },
-        {
-          "id": 900407,
-          "comanda_id": 900276,
-          "tipo": "salao_servicos",
-          "item": "Coloração",
-          "valor": 250,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 35,
-          "profissional_id": 900001,
-          "status": 1,
-          "datacad": "2025-08-08 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900277,
-      "numero": 2,
-      "data": "2025-08-08 00:00:00",
-      "salao_cliente_id": 900102,
-      "tab_items": [
-        {
-          "id": 900408,
-          "comanda_id": 900277,
-          "tipo": "salao_servicos",
-          "item": "Escova",
-          "valor": 79,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 50,
-          "profissional_id": 900001,
-          "status": 0,
-          "datacad": "2025-08-08 10:00:00"
-        }
-      ]
-    },
-    {
-      "id": 900278,
-      "numero": 3,
-      "data": "2025-08-08 00:00:00",
-      "salao_cliente_id": 900116,
-      "tab_items": [
-        {
-          "id": 900409,
-          "comanda_id": 900278,
-          "tipo": "salao_servicos",
-          "item": "Maquiagem",
-          "valor": 198,
-          "desconto": 0,
-          "quantidade": 1,
-          "custo": 0,
-          "comissao": 70,
           "profissional_id": 900001,
           "status": 1,
           "datacad": "2025-08-08 10:00:00"
@@ -2378,18 +2230,18 @@
   "bookings": [
     {
       "id": 900400,
-      "servico_id": 900301,
+      "servico_id": 900302,
       "profissional_id": 900001,
-      "salao_cliente_id": 900116,
+      "salao_cliente_id": 900108,
       "data": "2025-07-19",
-      "hora_ini": 563,
-      "hora_fim": 628,
-      "valor": 120,
-      "cliente_nome": "MARCELO ALBUQUERQUE",
+      "hora_ini": 541,
+      "hora_fim": 578,
+      "valor": 139,
+      "cliente_nome": "CECÍLIA SILVA",
       "comanda_id": 900200,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Hidratação"
+      "servicos": "Escova, Sobrancelha Design"
     },
     {
       "id": 900401,
@@ -2397,40 +2249,40 @@
       "profissional_id": 900001,
       "salao_cliente_id": 900115,
       "data": "2025-07-19",
-      "hora_ini": 659,
-      "hora_fim": 701,
-      "valor": 169,
-      "cliente_nome": "FELÍCIA BATISTA",
+      "hora_ini": 1038,
+      "hora_fim": 1114,
+      "valor": 250,
+      "cliente_nome": "MARCOS MOREIRA",
       "comanda_id": 900201,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Escova, Corte Feminino"
+      "servicos": "Coloração"
     },
     {
       "id": 900402,
-      "servico_id": 900305,
+      "servico_id": 900304,
       "profissional_id": 900001,
-      "salao_cliente_id": 900118,
+      "salao_cliente_id": 900107,
       "data": "2025-07-19",
-      "hora_ini": 507,
-      "hora_fim": 555,
-      "valor": 448,
-      "cliente_nome": "ROBERTO OLIVEIRA",
+      "hora_ini": 555,
+      "hora_fim": 593,
+      "valor": 79,
+      "cliente_nome": "TERTULIANO SANTOS",
       "comanda_id": 900202,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Coloração, Maquiagem"
+      "servicos": "Escova"
     },
     {
       "id": 900403,
-      "servico_id": 900306,
+      "servico_id": 900305,
       "profissional_id": 900001,
-      "salao_cliente_id": 900108,
+      "salao_cliente_id": 900107,
       "data": "2025-07-19",
-      "hora_ini": 815,
-      "hora_fim": 895,
+      "hora_ini": 710,
+      "hora_fim": 764,
       "valor": 198,
-      "cliente_nome": "MÉRCIA BARROS",
+      "cliente_nome": "TERTULIANO SANTOS",
       "comanda_id": 900203,
       "status": 4,
       "status_agendamento": "concluido",
@@ -2438,273 +2290,273 @@
     },
     {
       "id": 900404,
-      "servico_id": 900307,
+      "servico_id": 900306,
       "profissional_id": 900001,
-      "salao_cliente_id": 900101,
+      "salao_cliente_id": 900111,
       "data": "2025-07-19",
-      "hora_ini": 882,
-      "hora_fim": 915,
-      "valor": 60,
-      "cliente_nome": "CLARA BRAGA",
+      "hora_ini": 767,
+      "hora_fim": 831,
+      "valor": 79,
+      "cliente_nome": "LARISSA SILVA",
       "comanda_id": 900204,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Sobrancelha Design"
+      "servicos": "Escova"
     },
     {
       "id": 900405,
-      "servico_id": 900309,
+      "servico_id": 900307,
       "profissional_id": 900001,
       "salao_cliente_id": 900109,
-      "data": "2025-07-19",
-      "hora_ini": 1078,
-      "hora_fim": 1144,
-      "valor": 180,
-      "cliente_nome": "EDUARDO BRAGA",
+      "data": "2025-07-20",
+      "hora_ini": 627,
+      "hora_fim": 657,
+      "valor": 79,
+      "cliente_nome": "VALENTINA SILVA",
       "comanda_id": 900205,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Hidratação, Sobrancelha Design"
+      "servicos": "Escova"
     },
     {
       "id": 900406,
-      "servico_id": 900311,
+      "servico_id": 900309,
       "profissional_id": 900001,
-      "salao_cliente_id": 900101,
-      "data": "2025-07-21",
-      "hora_ini": 821,
-      "hora_fim": 878,
-      "valor": 318,
-      "cliente_nome": "CLARA BRAGA",
+      "salao_cliente_id": 900110,
+      "data": "2025-07-20",
+      "hora_ini": 701,
+      "hora_fim": 732,
+      "valor": 169,
+      "cliente_nome": "MARIA CECÍLIA SILVA",
       "comanda_id": 900206,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Maquiagem, Hidratação"
+      "servicos": "Escova, Corte Feminino"
     },
     {
       "id": 900407,
-      "servico_id": 900312,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900122,
-      "data": "2025-07-21",
-      "hora_ini": 678,
-      "hora_fim": 740,
-      "valor": 90,
-      "cliente_nome": "JOÃO MIGUEL BARROS",
-      "comanda_id": 900207,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Corte Feminino"
-    },
-    {
-      "id": 900408,
-      "servico_id": 900313,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900114,
-      "data": "2025-07-21",
-      "hora_ini": 541,
-      "hora_fim": 578,
-      "valor": 79,
-      "cliente_nome": "FABRÍCIO MELO",
-      "comanda_id": 900208,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Escova"
-    },
-    {
-      "id": 900409,
-      "servico_id": 900314,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900115,
-      "data": "2025-07-21",
-      "hora_ini": 1038,
-      "hora_fim": 1114,
-      "valor": 250,
-      "cliente_nome": "FELÍCIA BATISTA",
-      "comanda_id": 900209,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Coloração"
-    },
-    {
-      "id": 900410,
-      "servico_id": 900315,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900107,
-      "data": "2025-07-21",
-      "hora_ini": 555,
-      "hora_fim": 593,
-      "valor": 79,
-      "cliente_nome": "ALINE SILVA",
-      "comanda_id": 900210,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Escova"
-    },
-    {
-      "id": 900411,
-      "servico_id": 900317,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900110,
-      "data": "2025-07-22",
-      "hora_ini": 612,
-      "hora_fim": 658,
-      "valor": 139,
-      "cliente_nome": "PABLO FRANCO",
-      "comanda_id": 900211,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Escova, Sobrancelha Design"
-    },
-    {
-      "id": 900412,
-      "servico_id": 900318,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900102,
-      "data": "2025-07-22",
-      "hora_ini": 872,
-      "hora_fim": 924,
-      "valor": 60,
-      "cliente_nome": "CAUÃ XAVIER",
-      "comanda_id": 900212,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Sobrancelha Design"
-    },
-    {
-      "id": 900413,
-      "servico_id": 900319,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900102,
-      "data": "2025-07-22",
-      "hora_ini": 485,
-      "hora_fim": 539,
-      "valor": 90,
-      "cliente_nome": "CAUÃ XAVIER",
-      "comanda_id": 900213,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Corte Feminino"
-    },
-    {
-      "id": 900414,
-      "servico_id": 900320,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900100,
-      "data": "2025-07-23",
-      "hora_ini": 701,
-      "hora_fim": 732,
-      "valor": 250,
-      "cliente_nome": "HELENA SANTOS",
-      "comanda_id": 900214,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Coloração"
-    },
-    {
-      "id": 900415,
-      "servico_id": 900322,
+      "servico_id": 900311,
       "profissional_id": 900001,
       "salao_cliente_id": 900123,
-      "data": "2025-07-23",
+      "data": "2025-07-20",
       "hora_ini": 808,
       "hora_fim": 860,
       "valor": 310,
-      "cliente_nome": "DENEVAL CARVALHO",
-      "comanda_id": 900215,
+      "cliente_nome": "MANUELA OLIVEIRA",
+      "comanda_id": 900207,
       "status": 4,
       "status_agendamento": "concluido",
       "servicos": "Coloração, Sobrancelha Design"
     },
     {
-      "id": 900416,
-      "servico_id": 900323,
+      "id": 900408,
+      "servico_id": 900312,
       "profissional_id": 900001,
       "salao_cliente_id": 900110,
-      "data": "2025-07-23",
+      "data": "2025-07-20",
       "hora_ini": 523,
       "hora_fim": 580,
       "valor": 120,
-      "cliente_nome": "PABLO FRANCO",
-      "comanda_id": 900216,
+      "cliente_nome": "MARIA CECÍLIA SILVA",
+      "comanda_id": 900208,
       "status": 4,
       "status_agendamento": "concluido",
       "servicos": "Hidratação"
     },
     {
-      "id": 900417,
-      "servico_id": 900324,
+      "id": 900409,
+      "servico_id": 900313,
       "profissional_id": 900001,
       "salao_cliente_id": 900110,
-      "data": "2025-07-23",
+      "data": "2025-07-20",
       "hora_ini": 760,
       "hora_fim": 817,
       "valor": 60,
-      "cliente_nome": "PABLO FRANCO",
-      "comanda_id": 900217,
+      "cliente_nome": "MARIA CECÍLIA SILVA",
+      "comanda_id": 900209,
       "status": 4,
       "status_agendamento": "concluido",
       "servicos": "Sobrancelha Design"
     },
     {
-      "id": 900418,
-      "servico_id": 900326,
+      "id": 900410,
+      "servico_id": 900315,
       "profissional_id": 900001,
-      "salao_cliente_id": 900110,
+      "salao_cliente_id": 900121,
+      "data": "2025-07-21",
+      "hora_ini": 549,
+      "hora_fim": 607,
+      "valor": 340,
+      "cliente_nome": "ISABELLA FRANCO",
+      "comanda_id": 900210,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Corte Feminino, Coloração"
+    },
+    {
+      "id": 900411,
+      "servico_id": 900317,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900112,
+      "data": "2025-07-21",
+      "hora_ini": 929,
+      "hora_fim": 987,
+      "valor": 139,
+      "cliente_nome": "GUILHERME BARROS",
+      "comanda_id": 900211,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Sobrancelha Design, Escova"
+    },
+    {
+      "id": 900412,
+      "servico_id": 900318,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900100,
+      "data": "2025-07-21",
+      "hora_ini": 550,
+      "hora_fim": 599,
+      "valor": 198,
+      "cliente_nome": "ELISA COSTA",
+      "comanda_id": 900212,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Maquiagem"
+    },
+    {
+      "id": 900413,
+      "servico_id": 900319,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900117,
+      "data": "2025-07-21",
+      "hora_ini": 556,
+      "hora_fim": 598,
+      "valor": 198,
+      "cliente_nome": "VITÓRIA BRAGA",
+      "comanda_id": 900213,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Maquiagem"
+    },
+    {
+      "id": 900414,
+      "servico_id": 900320,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900116,
+      "data": "2025-07-22",
+      "hora_ini": 589,
+      "hora_fim": 627,
+      "valor": 198,
+      "cliente_nome": "ALICE XAVIER",
+      "comanda_id": 900214,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Maquiagem"
+    },
+    {
+      "id": 900415,
+      "servico_id": 900321,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900116,
+      "data": "2025-07-22",
+      "hora_ini": 518,
+      "hora_fim": 553,
+      "valor": 120,
+      "cliente_nome": "ALICE XAVIER",
+      "comanda_id": 900215,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Hidratação"
+    },
+    {
+      "id": 900416,
+      "servico_id": 900323,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900103,
+      "data": "2025-07-22",
+      "hora_ini": 583,
+      "hora_fim": 654,
+      "valor": 150,
+      "cliente_nome": "MARLI MARTINS",
+      "comanda_id": 900216,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Sobrancelha Design, Corte Feminino"
+    },
+    {
+      "id": 900417,
+      "servico_id": 900325,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900119,
       "data": "2025-07-23",
-      "hora_ini": 914,
-      "hora_fim": 951,
-      "valor": 277,
-      "cliente_nome": "PABLO FRANCO",
+      "hora_ini": 884,
+      "hora_fim": 933,
+      "valor": 370,
+      "cliente_nome": "JÚLIO MELO",
+      "comanda_id": 900217,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Coloração, Hidratação"
+    },
+    {
+      "id": 900418,
+      "servico_id": 900327,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900106,
+      "data": "2025-07-23",
+      "hora_ini": 964,
+      "hora_fim": 1031,
+      "valor": 318,
+      "cliente_nome": "MORGANA MACEDO",
       "comanda_id": 900218,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Escova, Maquiagem"
+      "servicos": "Maquiagem, Hidratação"
     },
     {
       "id": 900419,
       "servico_id": 900328,
       "profissional_id": 900001,
-      "salao_cliente_id": 900111,
+      "salao_cliente_id": 900121,
       "data": "2025-07-23",
-      "hora_ini": 727,
-      "hora_fim": 802,
-      "valor": 277,
-      "cliente_nome": "ELÍSIO SILVA",
+      "hora_ini": 707,
+      "hora_fim": 755,
+      "valor": 90,
+      "cliente_nome": "ISABELLA FRANCO",
       "comanda_id": 900219,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Escova, Maquiagem"
+      "servicos": "Corte Feminino"
     },
     {
       "id": 900420,
       "servico_id": 900329,
       "profissional_id": 900001,
-      "salao_cliente_id": 900100,
-      "data": "2025-07-24",
-      "hora_ini": 550,
-      "hora_fim": 599,
-      "valor": 198,
-      "cliente_nome": "HELENA SANTOS",
+      "salao_cliente_id": 900107,
+      "data": "2025-07-23",
+      "hora_ini": 527,
+      "hora_fim": 609,
+      "valor": 120,
+      "cliente_nome": "TERTULIANO SANTOS",
       "comanda_id": 900220,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Maquiagem"
+      "servicos": "Hidratação"
     },
     {
       "id": 900421,
       "servico_id": 900330,
       "profissional_id": 900001,
-      "salao_cliente_id": 900117,
-      "data": "2025-07-24",
-      "hora_ini": 556,
-      "hora_fim": 598,
-      "valor": 198,
-      "cliente_nome": "MARCELA BRAGA",
+      "salao_cliente_id": 900112,
+      "data": "2025-07-23",
+      "hora_ini": 539,
+      "hora_fim": 610,
+      "valor": 79,
+      "cliente_nome": "GUILHERME BARROS",
       "comanda_id": 900221,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Maquiagem"
+      "servicos": "Escova"
     },
     {
       "id": 900422,
@@ -2712,85 +2564,85 @@
       "profissional_id": 900001,
       "salao_cliente_id": 900108,
       "data": "2025-07-24",
-      "hora_ini": 567,
-      "hora_fim": 637,
-      "valor": 310,
-      "cliente_nome": "MÉRCIA BARROS",
+      "hora_ini": 1037,
+      "hora_fim": 1103,
+      "valor": 277,
+      "cliente_nome": "CECÍLIA SILVA",
       "comanda_id": 900222,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Sobrancelha Design, Coloração"
+      "servicos": "Escova, Maquiagem"
     },
     {
       "id": 900423,
       "servico_id": 900334,
       "profissional_id": 900001,
-      "salao_cliente_id": 900108,
+      "salao_cliente_id": 900110,
       "data": "2025-07-24",
-      "hora_ini": 1000,
-      "hora_fim": 1038,
-      "valor": 150,
-      "cliente_nome": "MÉRCIA BARROS",
-      "comanda_id": 900223,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Corte Feminino, Sobrancelha Design"
-    },
-    {
-      "id": 900424,
-      "servico_id": 900335,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900117,
-      "data": "2025-07-25",
-      "hora_ini": 841,
-      "hora_fim": 917,
-      "valor": 79,
-      "cliente_nome": "MARCELA BRAGA",
-      "comanda_id": 900224,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Escova"
-    },
-    {
-      "id": 900425,
-      "servico_id": 900337,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900114,
-      "data": "2025-07-25",
-      "hora_ini": 676,
-      "hora_fim": 721,
+      "hora_ini": 713,
+      "hora_fim": 746,
       "valor": 310,
-      "cliente_nome": "FABRÍCIO MELO",
-      "comanda_id": 900225,
+      "cliente_nome": "MARIA CECÍLIA SILVA",
+      "comanda_id": 900223,
       "status": 4,
       "status_agendamento": "concluido",
       "servicos": "Sobrancelha Design, Coloração"
     },
     {
+      "id": 900424,
+      "servico_id": 900335,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900101,
+      "data": "2025-07-24",
+      "hora_ini": 1061,
+      "hora_fim": 1141,
+      "valor": 250,
+      "cliente_nome": "NATÁLIA BRAGA",
+      "comanda_id": 900224,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Coloração"
+    },
+    {
+      "id": 900425,
+      "servico_id": 900337,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900103,
+      "data": "2025-07-24",
+      "hora_ini": 660,
+      "hora_fim": 730,
+      "valor": 310,
+      "cliente_nome": "MARLI MARTINS",
+      "comanda_id": 900225,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Coloração, Sobrancelha Design"
+    },
+    {
       "id": 900426,
       "servico_id": 900339,
       "profissional_id": 900001,
-      "salao_cliente_id": 900124,
+      "salao_cliente_id": 900105,
       "data": "2025-07-25",
-      "hora_ini": 844,
-      "hora_fim": 925,
-      "valor": 318,
-      "cliente_nome": "BENÍCIO SANTOS",
+      "hora_ini": 662,
+      "hora_fim": 713,
+      "valor": 199,
+      "cliente_nome": "MARIA CECÍLIA CARVALHO",
       "comanda_id": 900226,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Maquiagem, Hidratação"
+      "servicos": "Hidratação, Escova"
     },
     {
       "id": 900427,
       "servico_id": 900340,
       "profissional_id": 900001,
-      "salao_cliente_id": 900101,
+      "salao_cliente_id": 900109,
       "data": "2025-07-25",
-      "hora_ini": 663,
-      "hora_fim": 710,
+      "hora_ini": 872,
+      "hora_fim": 957,
       "valor": 79,
-      "cliente_nome": "CLARA BRAGA",
+      "cliente_nome": "VALENTINA SILVA",
       "comanda_id": 900227,
       "status": 4,
       "status_agendamento": "concluido",
@@ -2798,104 +2650,104 @@
     },
     {
       "id": 900428,
-      "servico_id": 900342,
+      "servico_id": 900341,
       "profissional_id": 900001,
       "salao_cliente_id": 900111,
       "data": "2025-07-25",
-      "hora_ini": 735,
-      "hora_fim": 783,
-      "valor": 210,
-      "cliente_nome": "ELÍSIO SILVA",
+      "hora_ini": 631,
+      "hora_fim": 690,
+      "valor": 79,
+      "cliente_nome": "LARISSA SILVA",
       "comanda_id": 900228,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Hidratação, Corte Feminino"
+      "servicos": "Escova"
     },
     {
       "id": 900429,
-      "servico_id": 900344,
+      "servico_id": 900342,
       "profissional_id": 900001,
-      "salao_cliente_id": 900102,
+      "salao_cliente_id": 900100,
       "data": "2025-07-26",
-      "hora_ini": 695,
-      "hora_fim": 766,
-      "valor": 329,
-      "cliente_nome": "CAUÃ XAVIER",
-      "comanda_id": 900229,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Escova, Coloração"
-    },
-    {
-      "id": 900430,
-      "servico_id": 900346,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900114,
-      "data": "2025-07-26",
-      "hora_ini": 894,
-      "hora_fim": 926,
-      "valor": 310,
-      "cliente_nome": "FABRÍCIO MELO",
-      "comanda_id": 900230,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Coloração, Sobrancelha Design"
-    },
-    {
-      "id": 900431,
-      "servico_id": 900347,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900118,
-      "data": "2025-07-26",
-      "hora_ini": 699,
-      "hora_fim": 757,
+      "hora_ini": 544,
+      "hora_fim": 600,
       "valor": 90,
-      "cliente_nome": "ROBERTO OLIVEIRA",
-      "comanda_id": 900231,
+      "cliente_nome": "ELISA COSTA",
+      "comanda_id": 900229,
       "status": 4,
       "status_agendamento": "concluido",
       "servicos": "Corte Feminino"
     },
     {
+      "id": 900430,
+      "servico_id": 900344,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900104,
+      "data": "2025-07-26",
+      "hora_ini": 942,
+      "hora_fim": 988,
+      "valor": 169,
+      "cliente_nome": "NATÁLIA REIS",
+      "comanda_id": 900230,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Corte Feminino, Escova"
+    },
+    {
+      "id": 900431,
+      "servico_id": 900346,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900124,
+      "data": "2025-07-26",
+      "hora_ini": 760,
+      "hora_fim": 821,
+      "valor": 210,
+      "cliente_nome": "MARIA JÚLIA SARAIVA",
+      "comanda_id": 900231,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Corte Feminino, Hidratação"
+    },
+    {
       "id": 900432,
       "servico_id": 900348,
       "profissional_id": 900001,
-      "salao_cliente_id": 900120,
-      "data": "2025-07-28",
-      "hora_ini": 780,
-      "hora_fim": 854,
-      "valor": 60,
-      "cliente_nome": "RAFAEL BARROS",
+      "salao_cliente_id": 900113,
+      "data": "2025-07-26",
+      "hora_ini": 527,
+      "hora_fim": 582,
+      "valor": 318,
+      "cliente_nome": "ISAAC MACEDO",
       "comanda_id": 900232,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Sobrancelha Design"
+      "servicos": "Hidratação, Maquiagem"
     },
     {
       "id": 900433,
       "servico_id": 900349,
       "profissional_id": 900001,
-      "salao_cliente_id": 900101,
-      "data": "2025-07-28",
-      "hora_ini": 607,
-      "hora_fim": 679,
-      "valor": 60,
-      "cliente_nome": "CLARA BRAGA",
+      "salao_cliente_id": 900107,
+      "data": "2025-07-26",
+      "hora_ini": 872,
+      "hora_fim": 956,
+      "valor": 90,
+      "cliente_nome": "TERTULIANO SANTOS",
       "comanda_id": 900233,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Sobrancelha Design"
+      "servicos": "Corte Feminino"
     },
     {
       "id": 900434,
       "servico_id": 900350,
       "profissional_id": 900001,
-      "salao_cliente_id": 900108,
+      "salao_cliente_id": 900123,
       "data": "2025-07-28",
-      "hora_ini": 662,
-      "hora_fim": 713,
+      "hora_ini": 644,
+      "hora_fim": 726,
       "valor": 120,
-      "cliente_nome": "MÉRCIA BARROS",
+      "cliente_nome": "MANUELA OLIVEIRA",
       "comanda_id": 900234,
       "status": 4,
       "status_agendamento": "concluido",
@@ -2903,134 +2755,134 @@
     },
     {
       "id": 900435,
-      "servico_id": 900351,
+      "servico_id": 900352,
       "profissional_id": 900001,
-      "salao_cliente_id": 900109,
+      "salao_cliente_id": 900102,
       "data": "2025-07-28",
-      "hora_ini": 872,
-      "hora_fim": 957,
-      "valor": 79,
-      "cliente_nome": "EDUARDO BRAGA",
+      "hora_ini": 738,
+      "hora_fim": 777,
+      "valor": 448,
+      "cliente_nome": "MARLI PEREIRA",
       "comanda_id": 900235,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Escova"
+      "servicos": "Maquiagem, Coloração"
     },
     {
       "id": 900436,
-      "servico_id": 900352,
+      "servico_id": 900354,
       "profissional_id": 900001,
-      "salao_cliente_id": 900111,
-      "data": "2025-07-28",
-      "hora_ini": 631,
-      "hora_fim": 690,
-      "valor": 79,
-      "cliente_nome": "ELÍSIO SILVA",
+      "salao_cliente_id": 900119,
+      "data": "2025-07-29",
+      "hora_ini": 978,
+      "hora_fim": 1028,
+      "valor": 329,
+      "cliente_nome": "JÚLIO MELO",
       "comanda_id": 900236,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Escova"
+      "servicos": "Coloração, Escova"
     },
     {
       "id": 900437,
-      "servico_id": 900353,
+      "servico_id": 900356,
       "profissional_id": 900001,
-      "salao_cliente_id": 900118,
-      "data": "2025-07-28",
-      "hora_ini": 807,
-      "hora_fim": 843,
-      "valor": 90,
-      "cliente_nome": "ROBERTO OLIVEIRA",
+      "salao_cliente_id": 900114,
+      "data": "2025-07-29",
+      "hora_ini": 900,
+      "hora_fim": 937,
+      "valor": 180,
+      "cliente_nome": "CALEBE REIS",
       "comanda_id": 900237,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Corte Feminino"
+      "servicos": "Sobrancelha Design, Hidratação"
     },
     {
       "id": 900438,
-      "servico_id": 900355,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900104,
-      "data": "2025-07-29",
-      "hora_ini": 942,
-      "hora_fim": 988,
-      "valor": 169,
-      "cliente_nome": "DANILO NOGUEIRA",
-      "comanda_id": 900238,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Corte Feminino, Escova"
-    },
-    {
-      "id": 900439,
       "servico_id": 900357,
       "profissional_id": 900001,
       "salao_cliente_id": 900124,
       "data": "2025-07-29",
-      "hora_ini": 760,
-      "hora_fim": 821,
-      "valor": 210,
-      "cliente_nome": "BENÍCIO SANTOS",
-      "comanda_id": 900239,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Corte Feminino, Hidratação"
-    },
-    {
-      "id": 900440,
-      "servico_id": 900359,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900113,
-      "data": "2025-07-29",
-      "hora_ini": 527,
-      "hora_fim": 582,
-      "valor": 318,
-      "cliente_nome": "WARLEY BARROS",
-      "comanda_id": 900240,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Hidratação, Maquiagem"
-    },
-    {
-      "id": 900441,
-      "servico_id": 900360,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900107,
-      "data": "2025-07-29",
-      "hora_ini": 872,
-      "hora_fim": 956,
+      "hora_ini": 666,
+      "hora_fim": 720,
       "valor": 90,
-      "cliente_nome": "ALINE SILVA",
-      "comanda_id": 900241,
+      "cliente_nome": "MARIA JÚLIA SARAIVA",
+      "comanda_id": 900238,
       "status": 4,
       "status_agendamento": "concluido",
       "servicos": "Corte Feminino"
     },
     {
-      "id": 900442,
+      "id": 900439,
+      "servico_id": 900359,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900101,
+      "data": "2025-07-30",
+      "hora_ini": 663,
+      "hora_fim": 721,
+      "valor": 150,
+      "cliente_nome": "NATÁLIA BRAGA",
+      "comanda_id": 900239,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Corte Feminino, Sobrancelha Design"
+    },
+    {
+      "id": 900440,
+      "servico_id": 900360,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900102,
+      "data": "2025-07-30",
+      "hora_ini": 1030,
+      "hora_fim": 1084,
+      "valor": 198,
+      "cliente_nome": "MARLI PEREIRA",
+      "comanda_id": 900240,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Maquiagem"
+    },
+    {
+      "id": 900441,
       "servico_id": 900362,
       "profissional_id": 900001,
+      "salao_cliente_id": 900106,
+      "data": "2025-07-31",
+      "hora_ini": 591,
+      "hora_fim": 654,
+      "valor": 210,
+      "cliente_nome": "MORGANA MACEDO",
+      "comanda_id": 900241,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Hidratação, Corte Feminino"
+    },
+    {
+      "id": 900442,
+      "servico_id": 900363,
+      "profissional_id": 900001,
       "salao_cliente_id": 900104,
-      "data": "2025-07-30",
-      "hora_ini": 993,
-      "hora_fim": 1029,
-      "valor": 288,
-      "cliente_nome": "DANILO NOGUEIRA",
+      "data": "2025-07-31",
+      "hora_ini": 750,
+      "hora_fim": 801,
+      "valor": 250,
+      "cliente_nome": "NATÁLIA REIS",
       "comanda_id": 900242,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Maquiagem, Corte Feminino"
+      "servicos": "Coloração"
     },
     {
       "id": 900443,
-      "servico_id": 900363,
+      "servico_id": 900364,
       "profissional_id": 900001,
-      "salao_cliente_id": 900121,
-      "data": "2025-07-30",
-      "hora_ini": 990,
-      "hora_fim": 1046,
+      "salao_cliente_id": 900110,
+      "data": "2025-07-31",
+      "hora_ini": 538,
+      "hora_fim": 581,
       "valor": 120,
-      "cliente_nome": "ANTONELLA MARTINS",
+      "cliente_nome": "MARIA CECÍLIA SILVA",
       "comanda_id": 900243,
       "status": 4,
       "status_agendamento": "concluido",
@@ -3038,528 +2890,408 @@
     },
     {
       "id": 900444,
-      "servico_id": 900364,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900104,
-      "data": "2025-07-30",
-      "hora_ini": 673,
-      "hora_fim": 729,
-      "valor": 198,
-      "cliente_nome": "DANILO NOGUEIRA",
-      "comanda_id": 900244,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Maquiagem"
-    },
-    {
-      "id": 900445,
       "servico_id": 900365,
       "profissional_id": 900001,
-      "salao_cliente_id": 900115,
-      "data": "2025-07-30",
-      "hora_ini": 816,
-      "hora_fim": 892,
-      "valor": 198,
-      "cliente_nome": "FELÍCIA BATISTA",
-      "comanda_id": 900245,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Maquiagem"
-    },
-    {
-      "id": 900446,
-      "servico_id": 900366,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900117,
-      "data": "2025-07-31",
-      "hora_ini": 552,
-      "hora_fim": 641,
-      "valor": 250,
-      "cliente_nome": "MARCELA BRAGA",
-      "comanda_id": 900246,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Coloração"
-    },
-    {
-      "id": 900447,
-      "servico_id": 900367,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900100,
-      "data": "2025-07-31",
-      "hora_ini": 720,
-      "hora_fim": 757,
-      "valor": 250,
-      "cliente_nome": "HELENA SANTOS",
-      "comanda_id": 900247,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Coloração"
-    },
-    {
-      "id": 900448,
-      "servico_id": 900369,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900101,
-      "data": "2025-07-31",
-      "hora_ini": 663,
-      "hora_fim": 721,
-      "valor": 150,
-      "cliente_nome": "CLARA BRAGA",
-      "comanda_id": 900248,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Corte Feminino, Sobrancelha Design"
-    },
-    {
-      "id": 900449,
-      "servico_id": 900370,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900102,
-      "data": "2025-07-31",
-      "hora_ini": 1030,
-      "hora_fim": 1084,
-      "valor": 198,
-      "cliente_nome": "CAUÃ XAVIER",
-      "comanda_id": 900249,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Maquiagem"
-    },
-    {
-      "id": 900450,
-      "servico_id": 900371,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900106,
-      "data": "2025-07-31",
-      "hora_ini": 567,
-      "hora_fim": 619,
+      "salao_cliente_id": 900108,
+      "data": "2025-08-01",
+      "hora_ini": 507,
+      "hora_fim": 550,
       "valor": 120,
-      "cliente_nome": "RICARDO SARAIVA",
-      "comanda_id": 900250,
+      "cliente_nome": "CECÍLIA SILVA",
+      "comanda_id": 900244,
       "status": 4,
       "status_agendamento": "concluido",
       "servicos": "Hidratação"
     },
     {
-      "id": 900451,
-      "servico_id": 900372,
+      "id": 900445,
+      "servico_id": 900366,
       "profissional_id": 900001,
-      "salao_cliente_id": 900111,
-      "data": "2025-07-31",
-      "hora_ini": 690,
-      "hora_fim": 741,
-      "valor": 60,
-      "cliente_nome": "ELÍSIO SILVA",
-      "comanda_id": 900251,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Sobrancelha Design"
-    },
-    {
-      "id": 900452,
-      "servico_id": 900373,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900111,
+      "salao_cliente_id": 900102,
       "data": "2025-08-01",
-      "hora_ini": 1030,
-      "hora_fim": 1072,
+      "hora_ini": 646,
+      "hora_fim": 716,
       "valor": 250,
-      "cliente_nome": "ELÍSIO SILVA",
-      "comanda_id": 900252,
+      "cliente_nome": "MARLI PEREIRA",
+      "comanda_id": 900245,
       "status": 4,
       "status_agendamento": "concluido",
       "servicos": "Coloração"
     },
     {
-      "id": 900453,
-      "servico_id": 900374,
+      "id": 900446,
+      "servico_id": 900368,
       "profissional_id": 900001,
-      "salao_cliente_id": 900102,
+      "salao_cliente_id": 900121,
       "data": "2025-08-01",
-      "hora_ini": 696,
-      "hora_fim": 779,
-      "valor": 79,
-      "cliente_nome": "CAUÃ XAVIER",
-      "comanda_id": 900253,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Escova"
-    },
-    {
-      "id": 900454,
-      "servico_id": 900375,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900113,
-      "data": "2025-08-01",
-      "hora_ini": 598,
-      "hora_fim": 649,
-      "valor": 79,
-      "cliente_nome": "WARLEY BARROS",
-      "comanda_id": 900254,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Escova"
-    },
-    {
-      "id": 900455,
-      "servico_id": 900376,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900117,
-      "data": "2025-08-01",
-      "hora_ini": 1069,
-      "hora_fim": 1099,
-      "valor": 198,
-      "cliente_nome": "MARCELA BRAGA",
-      "comanda_id": 900255,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Maquiagem"
-    },
-    {
-      "id": 900456,
-      "servico_id": 900377,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900109,
-      "data": "2025-08-01",
-      "hora_ini": 592,
-      "hora_fim": 645,
-      "valor": 79,
-      "cliente_nome": "EDUARDO BRAGA",
-      "comanda_id": 900256,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Escova"
-    },
-    {
-      "id": 900457,
-      "servico_id": 900378,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900117,
-      "data": "2025-08-01",
-      "hora_ini": 774,
-      "hora_fim": 805,
-      "valor": 90,
-      "cliente_nome": "MARCELA BRAGA",
-      "comanda_id": 900257,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Corte Feminino"
-    },
-    {
-      "id": 900458,
-      "servico_id": 900380,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900107,
-      "data": "2025-08-02",
-      "hora_ini": 721,
-      "hora_fim": 768,
+      "hora_ini": 533,
+      "hora_fim": 574,
       "valor": 169,
-      "cliente_nome": "ALINE SILVA",
-      "comanda_id": 900258,
+      "cliente_nome": "ISABELLA FRANCO",
+      "comanda_id": 900246,
       "status": 4,
       "status_agendamento": "concluido",
       "servicos": "Escova, Corte Feminino"
     },
     {
-      "id": 900459,
-      "servico_id": 900381,
+      "id": 900447,
+      "servico_id": 900369,
       "profissional_id": 900001,
-      "salao_cliente_id": 900114,
+      "salao_cliente_id": 900117,
       "data": "2025-08-02",
-      "hora_ini": 652,
-      "hora_fim": 739,
-      "valor": 250,
-      "cliente_nome": "FABRÍCIO MELO",
-      "comanda_id": 900259,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Coloração"
-    },
-    {
-      "id": 900460,
-      "servico_id": 900382,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900120,
-      "data": "2025-08-04",
-      "hora_ini": 696,
-      "hora_fim": 743,
+      "hora_ini": 774,
+      "hora_fim": 805,
       "valor": 90,
-      "cliente_nome": "RAFAEL BARROS",
-      "comanda_id": 900260,
+      "cliente_nome": "VITÓRIA BRAGA",
+      "comanda_id": 900247,
       "status": 4,
       "status_agendamento": "concluido",
       "servicos": "Corte Feminino"
     },
     {
-      "id": 900461,
-      "servico_id": 900384,
+      "id": 900448,
+      "servico_id": 900370,
       "profissional_id": 900001,
-      "salao_cliente_id": 900101,
-      "data": "2025-08-04",
-      "hora_ini": 881,
-      "hora_fim": 948,
-      "valor": 180,
-      "cliente_nome": "CLARA BRAGA",
-      "comanda_id": 900261,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Sobrancelha Design, Hidratação"
-    },
-    {
-      "id": 900462,
-      "servico_id": 900386,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900101,
-      "data": "2025-08-04",
-      "hora_ini": 565,
-      "hora_fim": 617,
-      "valor": 199,
-      "cliente_nome": "CLARA BRAGA",
-      "comanda_id": 900262,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Hidratação, Escova"
-    },
-    {
-      "id": 900463,
-      "servico_id": 900388,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900116,
-      "data": "2025-08-04",
-      "hora_ini": 813,
-      "hora_fim": 853,
-      "valor": 329,
-      "cliente_nome": "MARCELO ALBUQUERQUE",
-      "comanda_id": 900263,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Coloração, Escova"
-    },
-    {
-      "id": 900464,
-      "servico_id": 900390,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900122,
-      "data": "2025-08-04",
-      "hora_ini": 585,
-      "hora_fim": 641,
-      "valor": 370,
-      "cliente_nome": "JOÃO MIGUEL BARROS",
-      "comanda_id": 900264,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Coloração, Hidratação"
-    },
-    {
-      "id": 900465,
-      "servico_id": 900392,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900102,
-      "data": "2025-08-05",
-      "hora_ini": 996,
-      "hora_fim": 1068,
-      "valor": 340,
-      "cliente_nome": "CAUÃ XAVIER",
-      "comanda_id": 900265,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Corte Feminino, Coloração"
-    },
-    {
-      "id": 900466,
-      "servico_id": 900393,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900118,
-      "data": "2025-08-05",
-      "hora_ini": 926,
-      "hora_fim": 956,
+      "salao_cliente_id": 900104,
+      "data": "2025-08-02",
+      "hora_ini": 614,
+      "hora_fim": 689,
       "valor": 60,
-      "cliente_nome": "ROBERTO OLIVEIRA",
-      "comanda_id": 900266,
+      "cliente_nome": "NATÁLIA REIS",
+      "comanda_id": 900248,
       "status": 4,
       "status_agendamento": "concluido",
       "servicos": "Sobrancelha Design"
     },
     {
-      "id": 900467,
-      "servico_id": 900394,
+      "id": 900449,
+      "servico_id": 900371,
       "profissional_id": 900001,
-      "salao_cliente_id": 900114,
-      "data": "2025-08-05",
-      "hora_ini": 622,
-      "hora_fim": 674,
-      "valor": 60,
-      "cliente_nome": "FABRÍCIO MELO",
-      "comanda_id": 900267,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Sobrancelha Design"
-    },
-    {
-      "id": 900468,
-      "servico_id": 900395,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900120,
-      "data": "2025-08-06",
-      "hora_ini": 778,
-      "hora_fim": 835,
+      "salao_cliente_id": 900106,
+      "data": "2025-08-02",
+      "hora_ini": 650,
+      "hora_fim": 709,
       "valor": 79,
-      "cliente_nome": "RAFAEL BARROS",
-      "comanda_id": 900268,
+      "cliente_nome": "MORGANA MACEDO",
+      "comanda_id": 900249,
       "status": 4,
       "status_agendamento": "concluido",
       "servicos": "Escova"
     },
     {
-      "id": 900469,
-      "servico_id": 900397,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900101,
-      "data": "2025-08-06",
-      "hora_ini": 535,
-      "hora_fim": 622,
-      "valor": 310,
-      "cliente_nome": "CLARA BRAGA",
-      "comanda_id": 900269,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Sobrancelha Design, Coloração"
-    },
-    {
-      "id": 900470,
-      "servico_id": 900399,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900101,
-      "data": "2025-08-07",
-      "hora_ini": 839,
-      "hora_fim": 877,
-      "valor": 258,
-      "cliente_nome": "CLARA BRAGA",
-      "comanda_id": 900270,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Maquiagem, Sobrancelha Design"
-    },
-    {
-      "id": 900471,
-      "servico_id": 900400,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900111,
-      "data": "2025-08-07",
-      "hora_ini": 658,
-      "hora_fim": 726,
-      "valor": 60,
-      "cliente_nome": "ELÍSIO SILVA",
-      "comanda_id": 900271,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Sobrancelha Design"
-    },
-    {
-      "id": 900472,
-      "servico_id": 900402,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900115,
-      "data": "2025-08-07",
-      "hora_ini": 722,
-      "hora_fim": 793,
-      "valor": 448,
-      "cliente_nome": "FELÍCIA BATISTA",
-      "comanda_id": 900272,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Maquiagem, Coloração"
-    },
-    {
-      "id": 900473,
-      "servico_id": 900404,
-      "profissional_id": 900001,
-      "salao_cliente_id": 900116,
-      "data": "2025-08-07",
-      "hora_ini": 781,
-      "hora_fim": 819,
-      "valor": 180,
-      "cliente_nome": "MARCELO ALBUQUERQUE",
-      "comanda_id": 900273,
-      "status": 4,
-      "status_agendamento": "concluido",
-      "servicos": "Sobrancelha Design, Hidratação"
-    },
-    {
-      "id": 900474,
-      "servico_id": 900405,
+      "id": 900450,
+      "servico_id": 900373,
       "profissional_id": 900001,
       "salao_cliente_id": 900123,
-      "data": "2025-08-07",
-      "hora_ini": 616,
-      "hora_fim": 659,
+      "data": "2025-08-03",
+      "hora_ini": 986,
+      "hora_fim": 1037,
+      "valor": 318,
+      "cliente_nome": "MANUELA OLIVEIRA",
+      "comanda_id": 900250,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Hidratação, Maquiagem"
+    },
+    {
+      "id": 900451,
+      "servico_id": 900374,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900107,
+      "data": "2025-08-03",
+      "hora_ini": 935,
+      "hora_fim": 1020,
       "valor": 120,
-      "cliente_nome": "DENEVAL CARVALHO",
-      "comanda_id": 900274,
+      "cliente_nome": "TERTULIANO SANTOS",
+      "comanda_id": 900251,
       "status": 4,
       "status_agendamento": "concluido",
       "servicos": "Hidratação"
     },
     {
-      "id": 900475,
-      "servico_id": 900406,
+      "id": 900452,
+      "servico_id": 900376,
       "profissional_id": 900001,
-      "salao_cliente_id": 900100,
-      "data": "2025-08-07",
-      "hora_ini": 820,
-      "hora_fim": 890,
+      "salao_cliente_id": 900102,
+      "data": "2025-08-03",
+      "hora_ini": 622,
+      "hora_fim": 657,
+      "valor": 150,
+      "cliente_nome": "MARLI PEREIRA",
+      "comanda_id": 900252,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Corte Feminino, Sobrancelha Design"
+    },
+    {
+      "id": 900453,
+      "servico_id": 900377,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900103,
+      "data": "2025-08-04",
+      "hora_ini": 678,
+      "hora_fim": 743,
+      "valor": 60,
+      "cliente_nome": "MARLI MARTINS",
+      "comanda_id": 900253,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Sobrancelha Design"
+    },
+    {
+      "id": 900454,
+      "servico_id": 900379,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900102,
+      "data": "2025-08-04",
+      "hora_ini": 985,
+      "hora_fim": 1039,
+      "valor": 150,
+      "cliente_nome": "MARLI PEREIRA",
+      "comanda_id": 900254,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Corte Feminino, Sobrancelha Design"
+    },
+    {
+      "id": 900455,
+      "servico_id": 900381,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900103,
+      "data": "2025-08-04",
+      "hora_ini": 980,
+      "hora_fim": 1033,
+      "valor": 329,
+      "cliente_nome": "MARLI MARTINS",
+      "comanda_id": 900255,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Coloração, Escova"
+    },
+    {
+      "id": 900456,
+      "servico_id": 900382,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900113,
+      "data": "2025-08-05",
+      "hora_ini": 915,
+      "hora_fim": 972,
+      "valor": 120,
+      "cliente_nome": "ISAAC MACEDO",
+      "comanda_id": 900256,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Hidratação"
+    },
+    {
+      "id": 900457,
+      "servico_id": 900383,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900114,
+      "data": "2025-08-05",
+      "hora_ini": 840,
+      "hora_fim": 878,
       "valor": 198,
-      "cliente_nome": "HELENA SANTOS",
-      "comanda_id": 900275,
+      "cliente_nome": "CALEBE REIS",
+      "comanda_id": 900257,
       "status": 4,
       "status_agendamento": "concluido",
       "servicos": "Maquiagem"
     },
     {
-      "id": 900476,
-      "servico_id": 900408,
+      "id": 900458,
+      "servico_id": 900384,
       "profissional_id": 900001,
-      "salao_cliente_id": 900106,
-      "data": "2025-08-08",
-      "hora_ini": 685,
-      "hora_fim": 748,
-      "valor": 448,
-      "cliente_nome": "RICARDO SARAIVA",
-      "comanda_id": 900276,
+      "salao_cliente_id": 900119,
+      "data": "2025-08-06",
+      "hora_ini": 973,
+      "hora_fim": 1013,
+      "valor": 250,
+      "cliente_nome": "JÚLIO MELO",
+      "comanda_id": 900258,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Maquiagem, Coloração"
+      "servicos": "Coloração"
     },
     {
-      "id": 900477,
-      "servico_id": 900409,
+      "id": 900459,
+      "servico_id": 900386,
       "profissional_id": 900001,
-      "salao_cliente_id": 900102,
-      "data": "2025-08-08",
-      "hora_ini": 1035,
-      "hora_fim": 1087,
+      "salao_cliente_id": 900107,
+      "data": "2025-08-06",
+      "hora_ini": 775,
+      "hora_fim": 843,
+      "valor": 370,
+      "cliente_nome": "TERTULIANO SANTOS",
+      "comanda_id": 900259,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Hidratação, Coloração"
+    },
+    {
+      "id": 900460,
+      "servico_id": 900388,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900100,
+      "data": "2025-08-06",
+      "hora_ini": 1040,
+      "hora_fim": 1105,
+      "valor": 288,
+      "cliente_nome": "ELISA COSTA",
+      "comanda_id": 900260,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Maquiagem, Corte Feminino"
+    },
+    {
+      "id": 900461,
+      "servico_id": 900389,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900123,
+      "data": "2025-08-06",
+      "hora_ini": 566,
+      "hora_fim": 623,
+      "valor": 120,
+      "cliente_nome": "MANUELA OLIVEIRA",
+      "comanda_id": 900261,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Hidratação"
+    },
+    {
+      "id": 900462,
+      "servico_id": 900391,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900113,
+      "data": "2025-08-07",
+      "hora_ini": 725,
+      "hora_fim": 805,
+      "valor": 139,
+      "cliente_nome": "ISAAC MACEDO",
+      "comanda_id": 900262,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Sobrancelha Design, Escova"
+    },
+    {
+      "id": 900463,
+      "servico_id": 900393,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900100,
+      "data": "2025-08-07",
+      "hora_ini": 1061,
+      "hora_fim": 1130,
+      "valor": 310,
+      "cliente_nome": "ELISA COSTA",
+      "comanda_id": 900263,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Sobrancelha Design, Coloração"
+    },
+    {
+      "id": 900464,
+      "servico_id": 900394,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900109,
+      "data": "2025-08-07",
+      "hora_ini": 1044,
+      "hora_fim": 1098,
+      "valor": 60,
+      "cliente_nome": "VALENTINA SILVA",
+      "comanda_id": 900264,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Sobrancelha Design"
+    },
+    {
+      "id": 900465,
+      "servico_id": 900395,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900124,
+      "data": "2025-08-07",
+      "hora_ini": 491,
+      "hora_fim": 522,
       "valor": 79,
-      "cliente_nome": "CAUÃ XAVIER",
-      "comanda_id": 900277,
+      "cliente_nome": "MARIA JÚLIA SARAIVA",
+      "comanda_id": 900265,
       "status": 4,
       "status_agendamento": "concluido",
       "servicos": "Escova"
     },
     {
-      "id": 900478,
-      "servico_id": 900410,
+      "id": 900466,
+      "servico_id": 900397,
       "profissional_id": 900001,
-      "salao_cliente_id": 900116,
+      "salao_cliente_id": 900100,
       "data": "2025-08-08",
-      "hora_ini": 813,
-      "hora_fim": 883,
-      "valor": 198,
-      "cliente_nome": "MARCELO ALBUQUERQUE",
-      "comanda_id": 900278,
+      "hora_ini": 777,
+      "hora_fim": 862,
+      "valor": 277,
+      "cliente_nome": "ELISA COSTA",
+      "comanda_id": 900266,
       "status": 4,
       "status_agendamento": "concluido",
-      "servicos": "Maquiagem"
+      "servicos": "Escova, Maquiagem"
+    },
+    {
+      "id": 900467,
+      "servico_id": 900399,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900100,
+      "data": "2025-08-08",
+      "hora_ini": 610,
+      "hora_fim": 641,
+      "valor": 370,
+      "cliente_nome": "ELISA COSTA",
+      "comanda_id": 900267,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Hidratação, Coloração"
+    },
+    {
+      "id": 900468,
+      "servico_id": 900400,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900123,
+      "data": "2025-08-08",
+      "hora_ini": 955,
+      "hora_fim": 1008,
+      "valor": 60,
+      "cliente_nome": "MANUELA OLIVEIRA",
+      "comanda_id": 900268,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Sobrancelha Design"
+    },
+    {
+      "id": 900469,
+      "servico_id": 900402,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900113,
+      "data": "2025-08-08",
+      "hora_ini": 1036,
+      "hora_fim": 1070,
+      "valor": 448,
+      "cliente_nome": "ISAAC MACEDO",
+      "comanda_id": 900269,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Coloração, Maquiagem"
+    },
+    {
+      "id": 900470,
+      "servico_id": 900404,
+      "profissional_id": 900001,
+      "salao_cliente_id": 900113,
+      "data": "2025-08-08",
+      "hora_ini": 858,
+      "hora_fim": 914,
+      "valor": 180,
+      "cliente_nome": "ISAAC MACEDO",
+      "comanda_id": 900270,
+      "status": 4,
+      "status_agendamento": "concluido",
+      "servicos": "Sobrancelha Design, Hidratação"
     }
   ]
 }
