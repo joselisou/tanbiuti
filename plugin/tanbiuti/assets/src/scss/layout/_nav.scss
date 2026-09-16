@@ -1,0 +1,178 @@
+@use "../abstracts/variables" as v;
+
+$topbar-height: 56px;
+
+// The real source app uses a hamburger/off-canvas nav at every breakpoint,
+// not just mobile — a fixed top bar with a hamburger button, and the nav
+// itself is a drawer that slides in over the content when toggled.
+.tanbiuti-topbar {
+	position: fixed;
+	inset-inline: 0;
+	top: 0;
+	height: $topbar-height;
+	z-index: 20;
+	background: v.$color-surface;
+	border-bottom: 1px solid v.$color-border;
+	display: flex;
+	align-items: center;
+	padding: 0 v.$space-md;
+}
+
+.tanbiuti-topbar__title {
+	flex: 1;
+	text-align: center;
+	font-weight: 600;
+	color: v.$color-neutral-darker;
+
+	&--selector {
+		color: v.$color-text;
+	}
+}
+
+// Reserves the same width as the hamburger on the opposite edge, so the
+// title stays centered whether or not a section sets a real action (e.g.
+// Clientes' "+" add button) into it.
+.tanbiuti-topbar__action {
+	flex: 0 0 32px;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.tanbiuti-hamburger {
+	flex: 0 0 32px;
+	width: 32px;
+	height: 32px;
+	padding: 0;
+	background: none;
+	border: none;
+	cursor: pointer;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	gap: 5px;
+
+	span {
+		display: block;
+		height: 2px;
+		background: v.$color-primary;
+		border-radius: 1px;
+	}
+}
+
+// Topbar variant for sub-route screens (e.g. Comissões' "Serviços" detail)
+// that the real app opens as their own page with a back arrow instead of
+// the hamburger/drawer.
+.tanbiuti-back-arrow {
+	flex: 0 0 32px;
+	width: 32px;
+	height: 32px;
+	display: flex;
+	align-items: center;
+	color: v.$color-primary;
+
+	svg {
+		width: 20px;
+		height: 20px;
+		fill: currentcolor;
+	}
+}
+
+.tanbiuti-nav-overlay {
+	position: fixed;
+	inset: 0;
+	background: rgba(0, 0, 0, 0.4);
+	z-index: 19;
+
+	&[hidden] {
+		display: none;
+	}
+}
+
+.tanbiuti-nav {
+	position: fixed;
+	inset-block: 0;
+	left: 0;
+	width: 280px;
+	max-width: 85vw;
+	z-index: 20;
+	background: v.$color-surface;
+	border-right: 1px solid v.$color-border;
+	display: flex;
+	flex-direction: column;
+	overflow-y: auto;
+	transform: translateX(-100%);
+	transition: transform 0.25s ease;
+
+	&.is-open {
+		transform: translateX(0);
+	}
+}
+
+.tanbiuti-nav__user {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	gap: v.$space-xs;
+	padding: v.$space-lg v.$space-md;
+	border-bottom: 1px solid v.$color-border;
+
+	img {
+		width: 72px;
+		height: 72px;
+		border-radius: 50%;
+	}
+}
+
+.tanbiuti-nav__greeting {
+	font-weight: 600;
+}
+
+.tanbiuti-nav__edit-profile {
+	display: inline-flex;
+	align-items: center;
+	gap: v.$space-xs;
+	color: v.$color-primary;
+	text-decoration: none;
+	font-size: 0.875rem;
+
+	svg {
+		width: 14px;
+		height: 14px;
+		fill: currentcolor;
+	}
+}
+
+.tanbiuti-nav__list {
+	margin: 0;
+	padding: v.$space-sm 0;
+	list-style: none;
+}
+
+.tanbiuti-nav__item {
+
+	a {
+		display: flex;
+		align-items: center;
+		gap: v.$space-sm;
+		padding: v.$space-sm v.$space-md;
+		color: v.$color-muted;
+		text-decoration: none;
+		font-size: 1rem;
+	}
+
+	&.is-active a {
+		color: v.$color-primary;
+		font-weight: 600;
+	}
+}
+
+// Measured on the real app: nav icons are always primary-purple, whether or
+// not their item is the current section — only the label text/weight
+// changes on the active item, per `.is-active a` above.
+.tanbiuti-nav__icon {
+	width: 20px;
+	height: 20px;
+	flex: none;
+	fill: v.$color-primary;
+}

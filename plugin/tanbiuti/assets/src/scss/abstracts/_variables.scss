@@ -1,0 +1,60 @@
+// Mobile-first breakpoints — base styles target the smallest screen; these
+// mixins add rules for progressively larger ones.
+$breakpoint-tablet: 600px;
+$breakpoint-desktop: 960px;
+
+// Design tokens measured live from the real source app
+// (getComputedStyle + the :root CSS custom properties it defines) — see the
+// "Design tokens e branding" section of the project plan. Values only; the
+// actual logo/background artwork is never copied (own assets instead).
+$color-primary: #736ef5;
+$color-primary-dark: #5b53c5;
+$color-primary-darker: #403996;
+$color-primary-light: #cecaff;
+$color-primary-lighter: #f2f2fa;
+
+$color-secondary: #3cbefa;
+$color-secondary-dark: #0593cf;
+$color-secondary-light: #69e4ff;
+
+$color-white: #fff;
+$color-neutral-lighter: #f2f2f2;
+$color-neutral-light: #ccc;
+$color-neutral-main: #a6a6a6;
+$color-neutral-dark: #666;
+$color-neutral-darker: #404040;
+$color-neutral-darkest: #1a1a1a;
+$color-black: #000;
+
+$color-success: #3dbd61;
+$color-warning: #ef9400;
+$color-error: #ea4e2c;
+
+// Semantic aliases used throughout the partials.
+$color-bg: $color-neutral-lighter;
+$color-surface: $color-white;
+$color-text: $color-neutral-darkest;
+$color-muted: $color-neutral-main;
+$color-border: $color-neutral-light;
+
+$font-text: "Inter", sans-serif;
+$font-display: "Raleway", sans-serif;
+
+$space-xs: 4px;
+$space-sm: 8px;
+$space-md: 16px;
+$space-lg: 24px;
+
+// Measured on the real login form: 48px-tall inputs/buttons, 8px button radius.
+$control-height: 48px;
+$control-radius: 8px;
+
+// Measured on the real Comissões/Comandas/Clientes report & search bars (an
+// older, denser UI family than Login's — smaller radius, shorter controls,
+// bold accent purple that differs from $color-primary).
+$color-filterbar-border: #e2e0de;
+$color-filterbar-bg: #fafafa;
+$color-filterbar-accent: #5248dd;
+$filterbar-control-height: 40px;
+$filterbar-control-radius: 2px;
+$filterbar-btn-radius: 4px;

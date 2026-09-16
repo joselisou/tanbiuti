@@ -1,0 +1,15 @@
+@use "variables" as v;
+
+@mixin from-tablet {
+
+	@media (min-width: v.$breakpoint-tablet) {
+		@content;
+	}
+}
+
+@mixin from-desktop {
+
+	@media (min-width: v.$breakpoint-desktop) {
+		@content;
+	}
+}

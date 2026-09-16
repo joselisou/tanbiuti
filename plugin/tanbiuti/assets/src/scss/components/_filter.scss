@@ -1,0 +1,11 @@
+@use "../abstracts/variables" as v;
+
+// Injected by assets/src/ts/list-filter.ts above each .tanbiuti-list.
+.tanbiuti-filter {
+	width: 100%;
+	padding: v.$space-sm v.$space-md;
+	margin-bottom: v.$space-md;
+	border: 1px solid v.$color-border;
+	border-radius: 8px;
+	font-size: 1rem;
+}

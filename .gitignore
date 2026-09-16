@@ -1,0 +1,19 @@
+.env
+
+# Dependencies
+node_modules/
+vendor/
+
+# Real (sensitive) extracted data — never versioned
+data/real/
+tools/extractor/.token-cache.json
+
+# Build output that isn't meant to be committed
+tools/*/dist/
+plugin/tanbiuti/*.zip
+
+# PHPUnit/test runtime artifacts
+.phpunit.result.cache
+
+# OS / editor
+.DS_Store

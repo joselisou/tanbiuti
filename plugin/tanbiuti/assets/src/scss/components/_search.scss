@@ -1,0 +1,72 @@
+@use "../abstracts/variables" as v;
+@use "../abstracts/mixins" as m;
+
+// Measured on the real Clientes search bar: "Nome ▾" is a compact fixed-width
+// control, "Procurar Clientes:" fills the remaining space (placeholder text,
+// no external label), and "Buscar" sits at a fixed width on the right — all
+// on one row on wider screens, stacking only when there's no room.
+.tanbiuti-search {
+	display: flex;
+	flex-wrap: wrap;
+	gap: v.$space-sm;
+
+	select,
+	input {
+		height: v.$filterbar-control-height;
+		border: 1px solid v.$color-filterbar-border;
+		border-radius: v.$filterbar-control-radius;
+		padding: 0 v.$space-sm;
+		font-family: v.$font-text;
+		font-size: 1rem;
+		background: v.$color-filterbar-bg;
+	}
+}
+
+.tanbiuti-search__kind {
+	flex: 0 0 auto;
+	width: 100px;
+
+	@include m.from-tablet {
+		width: 120px;
+	}
+}
+
+.tanbiuti-search__input {
+	flex: 1 1 200px;
+}
+
+.tanbiuti-search__submit.tanbiuti-search__submit {
+	flex: 1 1 100%;
+	height: v.$filterbar-control-height;
+	background: v.$color-filterbar-accent;
+	border-color: v.$color-filterbar-accent;
+	border-radius: v.$filterbar-btn-radius;
+	font-weight: 700;
+	font-size: 0.875rem;
+
+	@include m.from-tablet {
+		flex: 0 0 auto;
+	}
+
+	&:hover {
+		background: v.$color-primary-darker;
+		border-color: v.$color-primary-darker;
+	}
+}
+
+// The real app's small purple "add" glyph, pinned to the topbar's right edge
+// (see templates/nav.php's `tanbiuti-topbar__action` slot).
+.tanbiuti-topbar__add {
+	width: 24px;
+	height: 24px;
+	padding: 0;
+	background: none;
+	border: none;
+	color: v.$color-primary;
+	cursor: pointer;
+
+	svg {
+		width: 100%;
+		height: 100%;
+	}
+}

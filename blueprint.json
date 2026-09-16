@@ -1,0 +1,42 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "meta": {
+    "title": "Tanbiuti (dataset fake)",
+    "author": "joselisou",
+    "description": "Clone de um painel de gestão de salão em WordPress, pré-carregado com um dataset sintético (sem dados reais) para demonstração."
+  },
+  "landingPage": "/minha-conta/",
+  "preferredVersions": { "php": "8.2", "wp": "latest" },
+  "steps": [
+    { "step": "login" },
+    {
+      "step": "setSiteOptions",
+      "options": {
+        "permalink_structure": "/%postname%/"
+      }
+    },
+    {
+      "step": "installPlugin",
+      "pluginData": {
+        "resource": "git:directory",
+        "url": "https://github.com/joselisou/tanbiuti",
+        "ref": "main",
+        "refType": "branch",
+        "path": "/plugin/tanbiuti"
+      },
+      "options": { "activate": true }
+    },
+    {
+      "step": "writeFile",
+      "path": "/wordpress/wp-content/tanbiuti-fake-dataset.xml",
+      "data": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/joselisou/tanbiuti/main/data/fake/tanbiuti-fake-dataset.xml"
+      }
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require '/wordpress/wp-load.php'; Tanbiuti_Importer::import_file('/wordpress/wp-content/tanbiuti-fake-dataset.xml');"
+    }
+  ]
+}

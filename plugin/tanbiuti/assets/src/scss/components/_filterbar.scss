@@ -1,0 +1,93 @@
+@use "../abstracts/variables" as v;
+
+// Measured on the real Comissões/Comandas filter header: a light-gray bar
+// holding two bordered date fields (each with a small calendar icon) and a
+// "Buscar" button, all the same 40px height — an older, denser control style
+// than Login's (see $filterbar-* tokens).
+.tanbiuti-filterbar {
+	background: v.$color-neutral-lighter;
+	margin: (-#{v.$space-md}) (-#{v.$space-md}) v.$space-md;
+	padding: v.$space-md;
+}
+
+.tanbiuti-filterbar__row {
+	display: flex;
+	flex-wrap: wrap;
+	gap: v.$space-sm;
+}
+
+.tanbiuti-datepicker--field {
+	flex: 1 1 0;
+	min-width: 140px;
+}
+
+// Doubled-up class selector so this always wins over the plain
+// `.tanbiuti-datepicker__toggle` icon-button rule in pages/_agenda.scss,
+// regardless of stylesheet import order.
+.tanbiuti-datepicker__toggle.tanbiuti-datepicker__toggle--field {
+	width: 100%;
+	height: v.$filterbar-control-height;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 v.$space-sm;
+	background: v.$color-filterbar-bg;
+	border: 1px solid v.$color-filterbar-border;
+	border-radius: v.$filterbar-control-radius;
+	color: v.$color-text;
+	cursor: pointer;
+
+	svg {
+		flex: none;
+		width: 18px;
+		height: 18px;
+		fill: v.$color-filterbar-accent;
+	}
+}
+
+.tanbiuti-datepicker__display {
+	color: v.$color-text;
+	font-family: v.$font-text;
+	font-size: 1rem;
+}
+
+.tanbiuti-filterbar__submit.tanbiuti-filterbar__submit {
+	flex: 1 1 0;
+	min-width: 140px;
+	height: v.$filterbar-control-height;
+	background: v.$color-filterbar-accent;
+	border-color: v.$color-filterbar-accent;
+	border-radius: v.$filterbar-btn-radius;
+	font-weight: 700;
+	font-size: 0.875rem;
+
+	&:hover {
+		background: v.$color-primary-darker;
+		border-color: v.$color-primary-darker;
+	}
+}
+
+// Measured on the real "Filtrar por recibo" row: a ~1/3-width label followed
+// by a ~2/3-width select, matching the real app's own two-column split.
+.tanbiuti-filterbar__recibo {
+	display: flex;
+	align-items: center;
+	gap: v.$space-sm;
+	margin-top: v.$space-md;
+	font-size: 0.875rem;
+
+	label {
+		flex: 0 0 33%;
+	}
+
+	select {
+		flex: 1 1 67%;
+		height: v.$filterbar-control-height;
+		border: 1px solid v.$color-filterbar-border;
+		border-radius: v.$filterbar-control-radius;
+		padding: 0 v.$space-sm;
+		font-family: v.$font-text;
+		font-size: 1rem;
+		background: v.$color-filterbar-bg;
+	}
+}

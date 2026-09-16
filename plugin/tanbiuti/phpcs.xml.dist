@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<ruleset name="Tanbiuti">
+    <description>Coding standards for the Tanbiuti plugin.</description>
+
+    <file>.</file>
+    <exclude-pattern>/vendor/*</exclude-pattern>
+    <exclude-pattern>/node_modules/*</exclude-pattern>
+    <exclude-pattern>/assets/build/*</exclude-pattern>
+    <exclude-pattern>/tests/*</exclude-pattern>
+
+    <arg value="sp"/>
+    <arg name="basepath" value="."/>
+    <arg name="colors"/>
+    <arg name="extensions" value="php"/>
+
+    <config name="testVersion" value="7.4-"/>
+    <config name="minimum_supported_wp_version" value="6.4"/>
+
+    <rule ref="WordPress-Extra">
+        <exclude name="WordPress.Files.FileName"/>
+    </rule>
+    <rule ref="WordPress-Docs"/>
+    <rule ref="PHPCompatibilityWP"/>
+
+    <rule ref="WordPress.NamingConventions.PrefixAllGlobals">
+        <properties>
+            <property name="prefixes" type="array">
+                <element value="tanbiuti_"/>
+                <element value="Tanbiuti"/>
+                <element value="TANBIUTI"/>
+            </property>
+        </properties>
+        <!-- Template files are included directly (not wrapped in a function), like core WP
+             theme templates, so their top-level variables are flagged as "globals" even though
+             they behave like locals scoped to that one include. -->
+        <exclude-pattern>/templates/*</exclude-pattern>
+    </rule>
+
+    <!-- Template files reuse conventional loop-variable names such as $post, matching how core
+         theme templates (single.php, archive.php, ...) are written. -->
+    <rule ref="WordPress.WP.GlobalVariablesOverride">
+        <exclude-pattern>/templates/*</exclude-pattern>
+    </rule>
+
+    <rule ref="WordPress.WP.I18n">
+        <properties>
+            <property name="text_domain" type="array">
+                <element value="tanbiuti"/>
+            </property>
+        </properties>
+    </rule>
+</ruleset>

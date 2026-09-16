@@ -1,0 +1,207 @@
+@use "../abstracts/variables" as v;
+@use "../abstracts/mixins" as m;
+
+// Layout measured on the real source app's login: full-viewport two columns
+// from the desktop breakpoint up; on mobile the brand-color panel is hidden
+// entirely and only the form shows, full width.
+.tanbiuti-login {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	background: v.$color-white;
+
+	@include m.from-desktop {
+		flex-direction: row;
+	}
+
+	form {
+		display: flex;
+		flex-direction: column;
+	}
+
+	label {
+		font-size: 0.875rem;
+		font-weight: 600;
+		margin-bottom: v.$space-xs;
+	}
+
+	// Measured on the real login: 48px-tall fields, underline only (no full
+	// box border).
+	input {
+		height: v.$control-height;
+		border: none;
+		border-bottom: 1px solid v.$color-border;
+		padding: 12px 0 12px 16px;
+		font-size: 1rem;
+		font-family: v.$font-text;
+		margin-bottom: v.$space-md;
+
+		&:focus {
+			outline: none;
+			border-bottom-color: v.$color-primary;
+		}
+	}
+
+	// Wraps the password input so the show/hide eye button can sit inside its
+	// right edge, matching the real login field.
+	.tanbiuti-password-field {
+		position: relative;
+		margin-bottom: v.$space-md;
+
+		input {
+			width: 100%;
+			margin-bottom: 0;
+			padding-right: 48px;
+		}
+	}
+}
+
+.tanbiuti-password-field__toggle {
+	position: absolute;
+	top: 0;
+	right: 0;
+	height: v.$control-height;
+	width: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: none;
+	border: none;
+	padding: 0;
+	color: v.$color-neutral-main;
+	cursor: pointer;
+}
+
+.tanbiuti-eye-icon {
+	width: 20px;
+	height: 20px;
+	fill: currentcolor;
+
+	&__slash {
+		stroke: currentcolor;
+		stroke-width: 60;
+		stroke-linecap: round;
+		opacity: 0;
+	}
+}
+
+.tanbiuti-password-field__toggle.is-visible .tanbiuti-eye-icon__slash {
+	opacity: 1;
+}
+
+.tanbiuti-login__panel {
+	display: none;
+	position: relative;
+	overflow: hidden;
+	background: v.$color-primary;
+	color: v.$color-white;
+	padding: v.$space-lg;
+
+	@include m.from-desktop {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		width: 50%;
+		padding: 10vh 10%;
+	}
+
+	h1 {
+		position: relative;
+		font-size: 2rem;
+		margin-bottom: v.$space-md;
+	}
+
+	p {
+		position: relative;
+		max-width: 32ch;
+		line-height: 1.6;
+	}
+}
+
+// Original decorative waves (own artwork, not the source app's
+// illustration) anchored to the bottom of the brand panel.
+.tanbiuti-login__waves {
+	position: absolute;
+	inset-inline: 0;
+	bottom: 0;
+	width: 100%;
+	height: 40%;
+}
+
+.tanbiuti-login__form-panel {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: v.$space-lg;
+
+	@include m.from-desktop {
+		width: 50%;
+		padding: 10vh 15%;
+	}
+}
+
+.tanbiuti-login__wordmark {
+	text-align: center;
+	font-family: v.$font-display;
+	font-weight: 700;
+	font-size: 1.5rem;
+	color: v.$color-primary;
+	margin-bottom: v.$space-lg;
+}
+
+.tanbiuti-login__hint {
+	color: v.$color-neutral-dark;
+	margin-bottom: v.$space-md;
+}
+
+.tanbiuti-login__error {
+	color: v.$color-error;
+	margin-bottom: v.$space-md;
+}
+
+.tanbiuti-login__forgot {
+	display: inline-block;
+	margin: v.$space-sm 0 v.$space-lg;
+	color: v.$color-neutral-main;
+	font-size: 0.875rem;
+}
+
+.tanbiuti-btn {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: v.$control-height;
+	padding: 0 v.$space-lg;
+	border-radius: v.$control-radius;
+	border: 2px solid v.$color-primary;
+	font-size: 1rem;
+	font-weight: 500;
+	text-align: center;
+	text-decoration: none;
+	cursor: pointer;
+
+	& + & {
+		margin-top: v.$space-sm;
+	}
+
+	&--primary {
+		background: v.$color-primary;
+		border-color: v.$color-primary;
+		color: v.$color-white;
+
+		&:hover {
+			background: v.$color-primary-dark;
+			border-color: v.$color-primary-dark;
+		}
+	}
+
+	&--secondary {
+		background: transparent;
+		color: v.$color-primary;
+
+		&:hover {
+			background: v.$color-primary-lighter;
+		}
+	}
+}

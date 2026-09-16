@@ -1,0 +1,129 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  node-tools:
+    name: Node tools (extractor, wxr-builder, fake-data-generator)
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        package: [extractor, wxr-builder, fake-data-generator]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Install dependencies
+        working-directory: tools/${{ matrix.package }}
+        run: npm install
+      - name: Lint
+        working-directory: tools/${{ matrix.package }}
+        run: npm run lint
+      - name: Type-check
+        working-directory: tools/${{ matrix.package }}
+        run: npx tsc --noEmit
+      - name: Test
+        working-directory: tools/${{ matrix.package }}
+        run: npm test
+
+  plugin-php:
+    name: Plugin PHP (PHPCS/WPCS)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.1'
+          tools: composer
+      - name: Install dependencies
+        working-directory: plugin/tanbiuti
+        run: composer install --no-interaction --prefer-dist
+      - name: PHPCS (WPCS)
+        working-directory: plugin/tanbiuti
+        run: composer lint
+      - name: PHP syntax check
+        working-directory: plugin/tanbiuti
+        run: find . -name "*.php" -not -path "./vendor/*" -print0 | xargs -0 -n1 php -l
+
+  plugin-assets:
+    name: Plugin front-end assets (lint + build)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Install dependencies
+        working-directory: plugin/tanbiuti
+        run: npm install
+      - name: Lint JS/TS
+        working-directory: plugin/tanbiuti
+        run: npm run lint:js
+      - name: Lint CSS/SCSS
+        working-directory: plugin/tanbiuti
+        run: npm run lint:css
+      - name: Build
+        working-directory: plugin/tanbiuti
+        run: npm run build
+      - name: Fail if built assets are out of date
+        working-directory: plugin/tanbiuti
+        run: |
+          if [ -n "$(git status --porcelain assets/build)" ]; then
+            echo "assets/build is out of date — run 'npm run build' in plugin/tanbiuti and commit the result."
+            git diff assets/build
+            exit 1
+          fi
+
+  plugin-phpunit:
+    name: Plugin PHPUnit (wp-env integration tests)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.1'
+          tools: composer
+      - name: Install Composer dependencies
+        working-directory: plugin/tanbiuti
+        run: composer install --no-interaction --prefer-dist
+      - name: Install Node dependencies
+        working-directory: plugin/tanbiuti
+        run: npm install
+      - name: Start wp-env
+        working-directory: plugin/tanbiuti
+        run: npx wp-env start
+      - name: Run PHPUnit
+        working-directory: plugin/tanbiuti
+        run: npm run test:php
+
+  plugin-wxr-fixture:
+    name: WXR fixture stays in sync with the builder
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Install wxr-builder dependencies
+        working-directory: tools/wxr-builder
+        run: npm install
+      - name: Regenerate test fixture
+        working-directory: tools/wxr-builder
+        run: npx tsx scripts/build-test-fixture.ts
+      - name: Regenerate fake dataset
+        working-directory: tools/fake-data-generator
+        run: npm install && npx tsx src/index.ts
+      - name: Fail if generated files are out of date
+        run: |
+          if [ -n "$(git status --porcelain plugin/tanbiuti/tests/fixtures data/fake)" ]; then
+            echo "Generated WXR fixtures are out of date — regenerate and commit them."
+            git status --porcelain plugin/tanbiuti/tests/fixtures data/fake
+            exit 1
+          fi

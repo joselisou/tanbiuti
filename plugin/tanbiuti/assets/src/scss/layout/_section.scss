@@ -1,0 +1,16 @@
+@use "../abstracts/variables" as v;
+
+.tanbiuti-section {
+	// Measured on the real app: content sits on a light-gray page background,
+	// with white cards/panels floating on top for contrast.
+	background: v.$color-bg;
+	min-height: 100vh;
+	padding: v.$space-md;
+	// Room for the fixed topbar — the nav is off-canvas at every breakpoint,
+	// so no side margin is ever needed here.
+	padding-top: 72px;
+
+	h1 {
+		margin-top: 0;
+	}
+}

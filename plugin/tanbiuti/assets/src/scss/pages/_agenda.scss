@@ -1,0 +1,197 @@
+@use "../abstracts/variables" as v;
+
+// Measured on the real source app's agenda: 44px per 30-minute row, 2px dashed
+// row dividers, a narrow time column, and colored blocks positioned/sized
+// by appointment duration over the grid.
+$row-height: 44px;
+
+.tanbiuti-agenda__header {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	gap: v.$space-sm;
+	margin: (-#{v.$space-md}) (-#{v.$space-md}) v.$space-md;
+	padding: v.$space-md;
+	// Measured on the real app: a light-gray bar under the topbar.
+	background: v.$color-neutral-lighter;
+}
+
+.tanbiuti-agenda__date-label {
+	font-weight: 600;
+	color: v.$color-neutral-dark;
+}
+
+.tanbiuti-datepicker {
+	position: relative;
+}
+
+.tanbiuti-datepicker__toggle {
+	width: 24px;
+	height: 24px;
+	padding: 0;
+	background: none;
+	border: none;
+	cursor: pointer;
+	color: v.$color-primary;
+
+	svg {
+		width: 100%;
+		height: 100%;
+		fill: currentcolor;
+	}
+}
+
+// Full viewport width — set via `left`/`width` (not `inset-inline`, for wider
+// browser support) so it always reaches both edges regardless of which field
+// opened it; `top` is set inline by date-picker.ts from the toggle's own
+// position, since a fixed-position panel can't rely on the field's own box
+// for offset the way an absolutely-positioned one could.
+.tanbiuti-datepicker__panel {
+	position: fixed;
+	left: 0;
+	width: 100vw;
+	z-index: 50;
+	background: v.$color-surface;
+	border: 1px solid v.$color-border;
+	border-radius: v.$control-radius;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+	padding: v.$space-sm;
+
+	&[hidden] {
+		display: none;
+	}
+}
+
+.tanbiuti-datepicker__nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	font-weight: 600;
+	margin-bottom: v.$space-sm;
+
+	button {
+		background: none;
+		border: none;
+		cursor: pointer;
+		font-size: 1.2rem;
+		color: v.$color-primary;
+		padding: v.$space-xs;
+	}
+}
+
+// Wraps the day grid's separately-clickable month/year labels — own
+// improvement over the real app, which has no drill-up shortcut.
+.tanbiuti-datepicker__nav-labels {
+	display: flex;
+	gap: v.$space-xs;
+}
+
+.tanbiuti-datepicker__nav-label {
+	text-decoration: underline dotted;
+	text-underline-offset: 3px;
+}
+
+.tanbiuti-datepicker__grid {
+	display: grid;
+	grid-template-columns: repeat(7, 1fr);
+	gap: 2px;
+	text-align: center;
+
+	&--months {
+		grid-template-columns: repeat(4, 1fr);
+	}
+
+	&--years {
+		grid-template-columns: repeat(5, 1fr);
+	}
+}
+
+.tanbiuti-datepicker__weekday {
+	font-size: 0.75rem;
+	font-weight: 600;
+	color: v.$color-neutral-main;
+	padding: v.$space-xs 0;
+}
+
+.tanbiuti-datepicker__day {
+	background: none;
+	border: none;
+	border-radius: 50%;
+	padding: v.$space-xs 0;
+	cursor: pointer;
+	font-size: 0.875rem;
+
+	&:hover {
+		background: v.$color-primary-lighter;
+	}
+
+	&.is-selected {
+		background: v.$color-primary;
+		color: v.$color-white;
+	}
+}
+
+// Month/year names are wider than a two-digit day number, so the month and
+// year grids use a rounded-rect cell instead of the day grid's circle.
+.tanbiuti-datepicker__grid--months .tanbiuti-datepicker__day,
+.tanbiuti-datepicker__grid--years .tanbiuti-datepicker__day {
+	border-radius: v.$control-radius;
+	padding: v.$space-sm 0;
+}
+
+.tanbiuti-agenda__grid {
+	position: relative;
+	border: 1px solid v.$color-border;
+	background: v.$color-surface;
+}
+
+.tanbiuti-agenda__row {
+	display: flex;
+	height: $row-height;
+	border-bottom: 2px dashed v.$color-border;
+	box-sizing: border-box;
+}
+
+.tanbiuti-agenda__time {
+	flex: 0 0 80px;
+	padding: v.$space-xs v.$space-sm;
+	font-size: 0.8rem;
+	color: v.$color-neutral-dark;
+	border-right: 1px solid v.$color-border;
+}
+
+.tanbiuti-agenda__slot {
+	flex: 1;
+}
+
+.tanbiuti-agenda__booking {
+	position: absolute;
+	left: 80px;
+	right: 0;
+	box-sizing: border-box;
+	overflow: hidden;
+	padding: 5px 8px;
+	border: 2px solid v.$color-surface;
+	color: v.$color-surface;
+	font-size: 0.8rem;
+	line-height: 1.3;
+	display: flex;
+	flex-direction: column;
+	// Confirmed/client appointment — measured on the real app.
+	background: #e86b6f;
+
+	&.is-blocked {
+		// Internal block (folga/almoço/bloqueio) — measured on the real app.
+		background: #087;
+	}
+
+	strong {
+		font-weight: 600;
+	}
+}
+
+.tanbiuti-agenda__empty {
+	margin-top: v.$space-md;
+	color: v.$color-neutral-dark;
+}

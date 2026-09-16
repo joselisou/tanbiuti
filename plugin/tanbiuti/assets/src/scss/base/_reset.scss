@@ -1,0 +1,36 @@
+@use "../abstracts/variables" as v;
+
+.tanbiuti-login,
+.tanbiuti-section,
+.tanbiuti-nav {
+	box-sizing: border-box;
+	font-family: v.$font-text;
+	color: v.$color-text;
+
+	*,
+	*::before,
+	*::after {
+		box-sizing: inherit;
+	}
+
+	h1,
+	h2,
+	h3 {
+		font-family: v.$font-display;
+	}
+}
+
+// WP core ships this class on wp-admin/login screens, but our standalone app
+// pages don't enqueue admin/theme CSS, so we define it ourselves here for any
+// visually-hidden-but-accessible label.
+.screen-reader-text {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	margin: -1px;
+	padding: 0;
+	overflow: hidden;
+	clip: rect(0, 0, 0, 0);
+	white-space: nowrap;
+	border: 0;
+}
